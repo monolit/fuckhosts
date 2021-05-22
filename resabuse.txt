@@ -1,7 +1,10 @@
 ##original: https://github.com/uBlockOrigin/uAssets/blob/master/filters/resource-abuse.txt
 
+
 0.0.0.0 rawgit.com
 0.0.0.0 revdl.com
+0.0.0.0 edu.ro
+0.0.0.0 upgraderservices.cf
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/1116
 0.0.0.0 cloudfront.net
@@ -46,3 +49,45 @@
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/4893
 0.0.0.0 protect-link.biz
+
+##  https://github.com/uBlockOrigin/uAssets/issues/3542
+0.0.0.0 hdvid.tv
+
+##  https://forums.lanik.us/viewtopic.php?f=90&t=40270
+0.0.0.0 nxload.co
+
+##  https://github.com/uBlockOrigin/uAssets/issues/1782
+0.0.0.0 sleeptimer.org
+
+##  https://github.com/uBlockOrigin/uAssets/issues/1826
+0.0.0.0 powvideo.net
+
+##  https://github.com/gorhill/uBlock/issues/3675
+0.0.0.0 potomy.ru
+
+##  https://github.com/hoshsadiq/adblock-nocoin-list/pull/204
+0.0.0.0 ianimes.co
+
+##  https://github.com/uBlockOrigin/uAssets/issues/2198
+0.0.0.0 megapastes.com
+
+##  https://github.com/uBlockOrigin/uAssets/issues/2309#issuecomment-389725332
+0.0.0.0 sickrage.ca
+0.0.0.0 sorteosrd.com
+
+##  https://github.com/uBlockOrigin/uAssets/issues/3139
+0.0.0.0 tomadivx.tv
+
+##  https://www.reddit.com/r/uBlockOrigin/comments/7tgjce/new_cryptocurrency_mining_website_not_blocked_by/
+0.0.0.0 tasma.ru
+
+##  https://github.com/hoshsadiq/adblock-nocoin-list/issues/137
+0.0.0.0 leitor.net
+
+##  https://github.com/uBlockOrigin/uAssets/issues/1503
+0.0.0.0 shrink-service.it
+0.0.0.0 flashx.pw
+0.0.0.0 vidoza.net
+
+##  https://github.com/uBlockOrigin/uAssets/pull/818#issuecomment-365770341
+0.0.0.0 djs.sk
