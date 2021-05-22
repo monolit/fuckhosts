@@ -1,0 +1,48 @@
+##original: https://github.com/uBlockOrigin/uAssets/blob/master/filters/resource-abuse.txt
+
+0.0.0.0 rawgit.com
+0.0.0.0 revdl.com
+
+##  https://github.com/uBlockOrigin/uAssets/issues/1116
+0.0.0.0 cloudfront.net
+
+##  https://github.com/hoshsadiq/adblock-nocoin-list/issues/104
+0.0.0.0 fileone.tv
+
+##  https://github.com/easylist/easylist/issues/861
+0.0.0.0 tubettajat.net
+0.0.0.0 cryweb.github.io
+0.0.0.0 crywebber.github.io
+
+##  https://github.com/uBlockOrigin/uAssets/issues/803
+0.0.0.0 safelinkconverter.com
+
+##  https://github.com/uBlockOrigin/uAssets/issues/7449
+0.0.0.0 csgo.xyz
+0.0.0.0 mailboxdelivery.com
+
+##  https://github.com/uBlockOrigin/uAssets/issues/6433
+0.0.0.0 backend.dna-delivery.com
+0.0.0.0 cdn.streamroot.io
+
+##  https://github.com/uBlockOrigin/uAssets/issues/6433#issuecomment-817198277
+0.0.0.0 france.tv
+
+##  https://github.com/uBlockOrigin/uAssets/issues/3643
+0.0.0.0 void.cat
+
+##  https://github.com/uBlockOrigin/uAssets/issues/3653
+0.0.0.0 wallpoper.com
+
+##  https://github.com/uBlockOrigin/uAssets/issues/4082
+0.0.0.0 123moviesgo.nl
+0.0.0.0 bmovies123.me
+0.0.0.0 fmoviesgo.me
+0.0.0.0 skytorrents.me
+0.0.0.0 fiddle.jshell.net
+
+##  https://github.com/uBlockOrigin/uAssets/issues/3134
+0.0.0.0 unblocktheship.org
+
+##  https://github.com/uBlockOrigin/uAssets/issues/4893
+0.0.0.0 protect-link.biz
