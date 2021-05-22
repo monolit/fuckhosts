@@ -10,3 +10,8 @@ https://github.com/AdguardTeam/AdguardFilters#adguard-filters
 https://forums.lanik.us/viewforum.php?f=102
 
 https://github.com/abp-filters/abp-filters-anti-cv
+
+
+<p align="center">
+  <img src="images/aie.gif"/><br>
+</p>
