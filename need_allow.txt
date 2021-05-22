@@ -1,0 +1,25 @@
+ad.admitad.com
+s.click.aliexpress.com
+
+s.youtube.com
+yt3.ggpht.com
+
+pagead.l.doubleclick.net
+googleadapis.l.google.com
+suggestqueries.google.com
+gstaticadssl.l.google.com
+
+#за просмотр рекламы
+*.helpshift.com
+*.nextgamesservices.com
+*.unity3d.com
+*.applvn.com
+*.applovin.com
+*.appsflyer.com
+*.supersonicads.com
+*.tapjoy.com
+cdn.liftoff.io
+
+audio-ak-spotify-com.akamaized.net
+s3.amazonaws.com
+mtalk.google.com
