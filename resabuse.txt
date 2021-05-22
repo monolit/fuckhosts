@@ -9,6 +9,16 @@
 ##  https://github.com/uBlockOrigin/uAssets/issues/1116
 0.0.0.0 cloudfront.net
 
+##  https://github.com/uBlockOrigin/uAssets/issues/659
+0.0.0.0 edgemesh.com
+0.0.0.0 edgeno.de
+
+##  https://github.com/hoshsadiq/adblock-nocoin-list/issues/101
+0.0.0.0 alltube.tv
+0.0.0.0 lewd.ninja
+0.0.0.0 milujivareni.cz
+0.0.0.0 subswiki.com
+
 ##  https://github.com/hoshsadiq/adblock-nocoin-list/issues/104
 0.0.0.0 fileone.tv
 
