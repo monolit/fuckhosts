@@ -21,6 +21,7 @@
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 vid.springserve.com
 0.0.0.0 cdn-4.riverpush.com
+0.0.0.0 inspectorstrongerpill.com
 
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 cooolio.biz
