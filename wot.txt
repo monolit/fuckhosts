@@ -90,7 +90,6 @@
 0.0.0.0 rec-con.com
 0.0.0.0 5-point.ru
 0.0.0.0 smi2.ru
-0.0.0.0 xeroxnow.cnews.ru
 0.0.0.0 portalvirtualreality.ru
 0.0.0.0 zen.yandex.ru
 0.0.0.0 www.clarity.ms
@@ -127,8 +126,10 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 news.2xclick.ru
 0.0.0.0 s.viicoat.com
+0.0.0.0 xeroxnow.cnews.ru
 0.0.0.0 cnb.cnews.ru
 0.0.0.0 storage.cnews.ru
+0.0.0.0 genesys.cnews.ru
 0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 test-1.server.retentioneering.com
 0.0.0.0 static.server.retentioneering.com
