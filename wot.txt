@@ -5,7 +5,7 @@
 0.0.0.0 s.w-x.co
 0.0.0.0 cdn.adsafeprotected.com
 
-0.0.00 adsdk.yandex.ru
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 yandexadexchange.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.3dnews.ru
