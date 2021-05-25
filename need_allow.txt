@@ -1,6 +1,6 @@
 ad.admitad.com
 s.click.aliexpress.com
-
+fonts.gstatic.com
 s.youtube.com
 yt3.ggpht.com
 
