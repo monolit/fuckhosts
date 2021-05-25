@@ -121,6 +121,7 @@
 0.0.0.0 videoroll.net
 0.0.0.0 cs4753.vk.me
 0.0.0.0 dns-family.adguard.com
+0.0.0.0 stat.adguard.com
 0.0.0.0 1e100.net
 0.0.0.0 branch.io
 0.0.0.0 api.browser.yandex
