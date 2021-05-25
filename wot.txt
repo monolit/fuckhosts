@@ -9,6 +9,7 @@
 0.0.0.0 yandexadexchange.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.3dnews.ru
+0.0.0.0 ads.adfox.ru
 
 0.0.0.0 trc.taboola.com
 0.0.0.0 alb.reddit.com
