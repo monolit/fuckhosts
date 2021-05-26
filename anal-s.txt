@@ -1,0 +1,27 @@
+google-analytics.com
+googleadservices.com
+googleanalytics.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
+analytics.google.com
+clientmetrics-pa.googleapis.com
+craktraffic.com
+crashlytics.com crashlyticsreports-pa.googleapis.com
+pagead.l.google.com
+partnerad.l.google.com
+video-stats.video.google.com www-google-analytics.l.google.com
+
+analytics.picsart.com
+analytics.pinterest.com
+analytics.mobile.yandex.net
+incoming.telemetry.mozilla.org
+spylog.com
+log.pinterest.com
+ib.adnxs.com
+
+cdn.onesignal.com
+stats.g.doubleclick.net
+
+cdn.trafficbass.com
+utarget.ru
