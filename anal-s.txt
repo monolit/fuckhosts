@@ -1,27 +1,30 @@
-google-analytics.com
-googleadservices.com
-googleanalytics.com
-googlesyndication.com
-googletagmanager.com
-googletagservices.com
-analytics.google.com
-clientmetrics-pa.googleapis.com
-craktraffic.com
-crashlytics.com crashlyticsreports-pa.googleapis.com
-pagead.l.google.com
-partnerad.l.google.com
-video-stats.video.google.com www-google-analytics.l.google.com
+0.0.0.0 tracking.epicgames.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googleanalytics.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 analytics.google.com
+0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 craktraffic.com
+0.0.0.0 crashlytics.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 pagead.l.google.com
+0.0.0.0 partnerad.l.google.com
+0.0.0.0 video-stats.video.google.com
+0.0.0.0 www-google-analytics.l.google.com
 
-analytics.picsart.com
-analytics.pinterest.com
-analytics.mobile.yandex.net
-incoming.telemetry.mozilla.org
-spylog.com
-log.pinterest.com
-ib.adnxs.com
+0.0.0.0 analytics.picsart.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 spylog.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 ib.adnxs.com
 
-cdn.onesignal.com
-stats.g.doubleclick.net
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 stats.g.doubleclick.net
 
-cdn.trafficbass.com
-utarget.ru
+0.0.0.0 cdn.trafficbass.com
+0.0.0.0 utarget.ru
