@@ -56,7 +56,15 @@
 0.0.0.0 cdn-1.riverpush.com
 0.0.0.0 inspectorstrongerpill.com
 0.0.0.0 cooolio.biz
+
 0.0.0.0 kraken.rambler.ru
+0.0.0.0 www.tns-counter.ru 
+0.0.0.0 id.rambler.ru
+0.0.0.0 img01.ssp.rambler.ru
+0.0.0.0 ssp.rambler.ru
+0.0.0.0 sync.datamind.ru
+
+
 0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 cmpv2.dualshokers.com 
 0.0.0.0 securepubads.g.doubleclick.net
