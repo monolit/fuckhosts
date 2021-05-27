@@ -5,7 +5,7 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.w-x.co
 0.0.0.0 cdn.adsafeprotected.com
-0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagservices.com
