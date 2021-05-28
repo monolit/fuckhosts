@@ -5,8 +5,6 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 stat.online.sberbank.ru
 
-0.0.0.0 node4.online.sberbank.ru
-
 0.0.0.0 dnl-00.geo.kaspersky.com
 
 0.0.0.0 mobile-node4.online.sberbank.ru
