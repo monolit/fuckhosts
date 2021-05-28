@@ -15,6 +15,13 @@
 0.0.0.0 mail-ads.google.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.youtube.com
+
+0.0.0.0 statics.streamable.com
+0.0.0.0 cdn.aaacdn.net 
+0.0.0.0 streamable.com
+0.0.0.0 v.embed-cdn.com
+0.0.0.0 cdn.embed.ly
+
 0.0.0.0 connect.facebook.net
 0.0.0.0 vk.com
 0.0.0.0 wfolio.ru 
