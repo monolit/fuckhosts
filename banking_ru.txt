@@ -1,0 +1,22 @@
+## [SBERBAN]
+0.0.0.0 dc1-file.ksn.kaspersky-labs.com
+0.0.0.0 dc1.ksn.kaspersky-labs.com
+
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 stat.online.sberbank.ru
+
+0.0.0.0 node4.online.sberbank.ru
+
+0.0.0.0 dnl-00.geo.kaspersky.com
+
+0.0.0.0 mobile-node4.online.sberbank.ru
+
+0.0.0.0 ddp.sberbank.ru
+
+0.0.0.0 cbro.sberbank.ru
+
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 pushtrs9.push.hicloud.com
