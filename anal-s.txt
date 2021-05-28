@@ -1,4 +1,6 @@
 0.0.0.0 tracking.epicgames.com
+0.0.0.0 firebase-settings.crashlytics.com
+
 0.0.0.0 sentry.io
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
