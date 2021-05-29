@@ -1,7 +1,6 @@
 0.0.0.0 facebook.net
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
-0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 static.criteo.net
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.w-x.co
@@ -10,7 +9,6 @@
 0.0.0.0 googleanalytics.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagservices.com
-0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adservice.google.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 ads.adfox.ru
@@ -28,7 +26,6 @@
 0.0.0.0 vk.com
 0.0.0.0 wfolio.ru 
 0.0.0.0 top-fwz1.mail.ru
-0.0.0.0 mc.yandex.ru
 0.0.0.0 cdn.carrotquest.io
 0.0.0.0 d.pixiv.org
 0.0.0.0 boostingads.com
@@ -48,8 +45,6 @@
 0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.doubleclick.net
-0.0.0.0 yandexadexchange.net
-0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 trc.taboola.com
 0.0.0.0 alb.reddit.com
@@ -81,7 +76,6 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 stats-dev.brid.tv
-0.0.0.0 static-mon.yandex.net
 0.0.0.0 ccalgf.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 sb.s corecardresearch.com 
@@ -111,14 +105,29 @@
 0.0.0.0 pub.network
 0.0.0.0 quantserve.com
 0.0.0.0 sharethrough.com
-0.0.0.0 an.yandex.ru
-0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 mc.webvisor.org
+
+0.0.0.0 yandexadexchange.net
+0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 static-mon.yandex.net
 0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 tools.messenger.yandex.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 calendar.yandex.ru
+0.0.0.0 an.yandex.ru
+0.0.0.0 bs.yandex.ru
+0.0.0.0 dr.yandex.net
+0.0.0.0 mc.yandex.ru
+0.0.0.0 informer.yandex.ru
+0.0.0.0 adsdk.yandex.ru
+0.0.0.0 matchid.adfox.yandex.ru
+0.0.0.0 clck.yandex.net
+0.0.0.0 zen.yandex.ru
+0.0.0.0 api.browser.yandex
+
 0.0.0.0 mindbox.ru
 0.0.0.0 api.mindbox.ru
 0.0.0.0 exchange.buzzoola.com
@@ -135,19 +144,15 @@
 0.0.0.0 5-point.ru
 0.0.0.0 smi2.ru
 0.0.0.0 portalvirtualreality.ru
-0.0.0.0 zen.yandex.ru
 0.0.0.0 www.clarity.ms
 0.0.0.0 ingestion.sportskeeda.com
 0.0.0.0 cas.avalon.perfdrive.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 www.hsselite.com
 0.0.0.0 www.googletagservices.com
-0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 news.parthers.ru.com
 0.0.0.0 annamalkovavideo.e-autopay.com
-0.0.0.0 dr.yandex.net
 0.0.0.0 w.uptolike.com
-0.0.0.0 bs.yandex.ru
 0.0.0.0 a.republer.com
 0.0.0.0 vidtok.ru
 0.0.0.0 advertur.ru
@@ -161,7 +166,6 @@
 0.0.0.0 stat.adguard.com
 0.0.0.0 1e100.net
 0.0.0.0 branch.io
-0.0.0.0 api.browser.yandex
 
 0.0.0.0 appsflyer.com
 0.0.0.0 launches.appsflyer.com
@@ -223,5 +227,4 @@
 0.0.0.0 csm.par.vip.prod.criteo.net
 0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 andylongshot.com
-0.0.0.0 clck.yandex.net
 0.0.0.0 dsp-rambler.ru
