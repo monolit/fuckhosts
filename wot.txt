@@ -14,6 +14,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 ads.adfox.ru
+0.0.0.0 adservice.google.ru
 0.0.0.0 ads.youtube.com
 
 0.0.0.0 statics.streamable.com
