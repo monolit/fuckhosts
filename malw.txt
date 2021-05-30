@@ -6,3 +6,16 @@
 0.0.0.0 only2date.com
 0.0.0.0 duamilsyr.com
 0.0.0.0 ds.kaspersky.com
+
+0.0.0.0 i.jads.co
+0.0.0.0 xapi.jads.co	
+0.0.0.0 ck.jads.co	
+0.0.0.0 redir.jads.co	
+0.0.0.0 imgs.jads.co	
+0.0.0.0 www.jads.co	
+0.0.0.0 poweredby.jads.co
+
+0.0.0.0 static.juicyads.com
+0.0.0.0 manage.juicyads.com
+0.0.0.0 stats.juicyads.com
+0.0.0.0 js.juicyads.com
