@@ -108,6 +108,7 @@
 0.0.0.0 quantserve.com
 0.0.0.0 sharethrough.com
 0.0.0.0 mc.webvisor.org
+0.0.0.0 online-first.ru
 
 0.0.0.0 yandexadexchange.net
 0.0.0.0 mobile.yandexadexchange.net
@@ -119,6 +120,7 @@
 0.0.0.0 tools.messenger.yandex.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 calendar.yandex.ru
+0.0.0.0 metrika.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 bs.yandex.ru
 0.0.0.0 dr.yandex.net
