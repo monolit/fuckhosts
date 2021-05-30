@@ -130,10 +130,6 @@
 0.0.0.0 zen.yandex.ru
 0.0.0.0 api.browser.yandex
 
-0.0.0.0 ck.jads.co
-0.0.0.0 poweredby.jads.co
-0.0.0.0 manage.juicyads.com
-
 0.0.0.0 mindbox.ru
 0.0.0.0 api.mindbox.ru
 0.0.0.0 exchange.buzzoola.com
