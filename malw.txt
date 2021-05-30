@@ -1,5 +1,7 @@
 0.0.0.0 novomirgorod.com
 0.0.0.0 s.optnx.com
+0.0.0.0 chaturbate.com
+0.0.0.0 m.chaturbate.com
 0.0.0.0 never2never.com
 0.0.0.0 only2date.com
 0.0.0.0 duamilsyr.com
