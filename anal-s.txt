@@ -3,6 +3,7 @@
 
 0.0.0.0 sentry.io
 0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 googlesyndication.com
