@@ -132,7 +132,7 @@
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 clck.yandex.net
 0.0.0.0 zen.yandex.ru
-0.0.0.0 api.browser.yandex
+0.0.0.0 api.browser.yandex.ru
 
 0.0.0.0 mindbox.ru
 0.0.0.0 api.mindbox.ru
