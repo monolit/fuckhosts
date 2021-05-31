@@ -63,6 +63,7 @@
 0.0.0.0 cdn-1.riverpush.com
 0.0.0.0 inspectorstrongerpill.com
 0.0.0.0 cooolio.biz
+0.0.0.0 ad.adriver.ru
 
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 www.tns-counter.ru 
