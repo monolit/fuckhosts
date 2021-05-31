@@ -1,4 +1,8 @@
-##	https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist
+! Title: MsEdge blocklist
+! Expires: 10 days
+! Version: 202105300500
+! Homepage: https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist
+
 24video.be
 7dnifutbol.bg
 6tv.dk
