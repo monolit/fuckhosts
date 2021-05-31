@@ -47,6 +47,7 @@
 0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 trc.taboola.com
 0.0.0.0 alb.reddit.com
