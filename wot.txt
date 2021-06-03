@@ -109,6 +109,7 @@
 0.0.0.0 digitaltarget.ru
 0.0.0.0 google-analytics.com
 0.0.0.0 t.mail.ru
+0.0.0.0 r.mail.ru
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 otvet.radar.imgsmail.ru
 0.0.0.0 stat.radar.imgsmail.ru
