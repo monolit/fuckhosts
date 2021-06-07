@@ -18,7 +18,6 @@
 0.0.0.0 adservice.google.ru
 0.0.0.0 ads.youtube.com
 
-0.0.0.0 statics.streamable.com
 0.0.0.0 cdn.aaacdn.net 
 0.0.0.0 v.embed-cdn.com
 0.0.0.0 cdn.embed.ly
