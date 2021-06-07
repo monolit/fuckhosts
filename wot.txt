@@ -45,7 +45,7 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.webvisor.com
-0.0.0.0 socket.streamable.com
+
 0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.doubleclick.net
