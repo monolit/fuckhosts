@@ -101,7 +101,6 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 bs.serving-sys.com
-0.0.0.0 outbrain.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 tns-counter.ru
 0.0.0.0 digitaltarget.ru
@@ -219,7 +218,6 @@
 0.0.0.0 sync.taboola.com
 0.0.0.0 hk-sync.taboola.com
 0.0.0.0 lga-bh-bgp.contextweb.com
-0.0.0.0 nydc1.outbrain.org
 0.0.0.0 trc-events.taboola.com
 0.0.0.0 pl-px.trafficmanager.net
 0.0.0.0 b1sync.zemanta.com
