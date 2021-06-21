@@ -1,8 +1,6 @@
 0.0.0.0 facebook.net
-
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 firebase-settings.crashlytics.com
-
 0.0.0.0 sentry.io
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
@@ -20,7 +18,6 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 www-google-analytics.l.google.com
-
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.mobile.yandex.net
@@ -28,13 +25,10 @@
 0.0.0.0 spylog.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 ib.adnxs.com
-
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 stats.g.doubleclick.net
-
 0.0.0.0 cdn.trafficbass.com
 0.0.0.0 utarget.ru
-
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
 0.0.0.0 static.criteo.net
@@ -44,24 +38,19 @@
 0.0.0.0 rb.infox.sg
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 googleanalytics.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 googletagservices.com
 0.0.0.0 adservice.google.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 ad.admitad.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 adservice.google.ru
 0.0.0.0 ads.youtube.com
-0.0.0.0 cdn.aaacdn.net0.0.0.0 v.embed-cdn.com
-0.0.0.0 cdn.embed.ly
+0.0.0.0 cdn.aaacdn.net0.0.0.00.0.0.0 cdn.embed.ly
 0.0.0.0 connect.facebook.net
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 bitrix.info
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 vk.com
-0.0.0.0 wfolio.ru0.0.0.0 top-fwz1.mail.ru
-0.0.0.0 cdn.carrotquest.io
+0.0.0.0 wfolio.ru0.0.0.00.0.0.0 cdn.carrotquest.io
 0.0.0.0 d.pixiv.org
 0.0.0.0 boostingads.com
 0.0.0.0 adservice.io
@@ -101,19 +90,16 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 sffsdvc.com
 0.0.0.0 kraken.rambler.ru
-0.0.0.0 www.tns-counter.ru0.0.0.0 id.rambler.ru
-0.0.0.0 img01.ssp.rambler.ru
+0.0.0.0 www.tns-counter.ru0.0.0.00.0.0.0 img01.ssp.rambler.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 sync.datamind.ru
 0.0.0.0 ccpa.sp-prod.net
-0.0.0.0 cmpv2.dualshokers.com0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 cmpv2.dualshokers.com0.0.0.00.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 ccalgf.com
 0.0.0.0 ads.pro-market.net
-0.0.0.0 sb.scorecardresearch.com0.0.0.0 secure.quantserve.com
-0.0.0.0 tag.crsspxl.com
+0.0.0.0 sb.scorecardresearch.com0.0.0.00.0.0.0 tag.crsspxl.com
 0.0.0.0 adfokus.ru
 0.0.0.0 collector.githubapp.com
 0.0.0.0 sentry-cdn.com
@@ -128,7 +114,6 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 tns-counter.ru
 0.0.0.0 digitaltarget.ru
-0.0.0.0 google-analytics.com
 0.0.0.0 t.mail.ru
 0.0.0.0 r.mail.ru
 0.0.0.0 pulse.mail.ru
@@ -285,7 +270,6 @@
 0.0.0.0 news.smi2.ru
 0.0.0.0 mediametrics.ru
 0.0.0.0 news.mirtesen.ru
-0.0.0.0 ib.adnxs.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 di.rlcdn.com
 0.0.0.0 pixel.advertising.com
