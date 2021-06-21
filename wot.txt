@@ -17,18 +17,14 @@
 0.0.0.0 ads.adfox.ru
 0.0.0.0 adservice.google.ru
 0.0.0.0 ads.youtube.com
-
-0.0.0.0 cdn.aaacdn.net 
-0.0.0.0 v.embed-cdn.com
+0.0.0.0 cdn.aaacdn.net0.0.0.0 v.embed-cdn.com
 0.0.0.0 cdn.embed.ly
-
 0.0.0.0 connect.facebook.net
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 bitrix.info
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 vk.com
-0.0.0.0 wfolio.ru 
-0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 wfolio.ru0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 cdn.carrotquest.io
 0.0.0.0 d.pixiv.org
 0.0.0.0 boostingads.com
@@ -44,7 +40,6 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.webvisor.com
-
 0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.doubleclick.net
@@ -65,30 +60,23 @@
 0.0.0.0 inspectorstrongerpill.com
 0.0.0.0 cooolio.biz
 0.0.0.0 ad.adriver.ru
-
 0.0.0.0 pdvacde.com
 0.0.0.0 guid.tpns.tencent.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 sffsdvc.com
-
 0.0.0.0 kraken.rambler.ru
-0.0.0.0 www.tns-counter.ru 
-0.0.0.0 id.rambler.ru
+0.0.0.0 www.tns-counter.ru0.0.0.0 id.rambler.ru
 0.0.0.0 img01.ssp.rambler.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 sync.datamind.ru
-
-
 0.0.0.0 ccpa.sp-prod.net
-0.0.0.0 cmpv2.dualshokers.com 
-0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 cmpv2.dualshokers.com0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 ccalgf.com
 0.0.0.0 ads.pro-market.net
-0.0.0.0 sb.scorecardresearch.com 
-0.0.0.0 secure.quantserve.com
+0.0.0.0 sb.scorecardresearch.com0.0.0.0 secure.quantserve.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 adfokus.ru
 0.0.0.0 collector.githubapp.com
@@ -118,7 +106,6 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 online-first.ru
-
 0.0.0.0 yandexadexchange.net
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 startup.mobile.yandex.net
@@ -141,7 +128,6 @@
 0.0.0.0 zen.yandex.ru
 0.0.0.0 api.browser.yandex.ru
 0.0.0.0 api.browser.yandex.net
-
 0.0.0.0 mindbox.ru
 0.0.0.0 api.mindbox.ru
 0.0.0.0 exchange.buzzoola.com
@@ -180,11 +166,9 @@
 0.0.0.0 stat.adguard.com
 0.0.0.0 1e100.net
 0.0.0.0 branch.io
-
 0.0.0.0 appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
-
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 api.nicegram.app
 0.0.0.0 r4---sn-hxb54vo-304s.gvt1.com
@@ -241,8 +225,6 @@
 0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 andylongshot.com
 0.0.0.0 dsp-rambler.ru
-
-0.0.0.0 s.viicoat.com
 0.0.0.0 zbyynuew9g.ru
 0.0.0.0 adsbid-ad-click.adghndou0sdh.ru
 0.0.0.0 news-fancy.com
@@ -250,7 +232,6 @@
 0.0.0.0 web.webpushs.com
 0.0.0.0 s.luxupcdnc.com
 0.0.0.0 jsn.24smi.net
-0.0.0.0 zbyynuew9g.ru
 0.0.0.0 www.smi.today
 0.0.0.0 data.24smi.net
 0.0.0.0 luxupcdnc.com
@@ -259,22 +240,18 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 prodmp.ru
-
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 relap.io
 0.0.0.0 pp.lp4.io
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 pix.spot.im
 0.0.0.0 jsc.lentainform.com
-0.0.0.0 smi2.ru
 0.0.0.0 news.smi2.ru
 0.0.0.0 mediametrics.ru
-0.0.0.0 rb.infox.sg
 0.0.0.0 news.mirtesen.ru
 0.0.0.0 ib.adnxs.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 di.rlcdn.com
-0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 mediator.mail.ru
 0.0.0.0 www.tns-counter.ru
