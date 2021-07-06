@@ -182,7 +182,6 @@
 0.0.0.0 zyrji.com
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 videoroll.net
-0.0.0.0 cs4753.vk.me
 0.0.0.0 dns-family.adguard.com
 0.0.0.0 stat.adguard.com
 0.0.0.0 1e100.net
@@ -191,8 +190,6 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 adsmetadata.mobileadexchange.net
-0.0.0.0 api.nicegram.app
-0.0.0.0 r4---sn-hxb54vo-304s.gvt1.com
 0.0.0.0 m.megafonpro.ru
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 news.2xclick.ru
