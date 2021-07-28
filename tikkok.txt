@@ -7,7 +7,6 @@
 0.0.0.0 pull-f5-va01.tiktokcdn.com 
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com 
 0.0.0.0 mssdk-sg.tiktokv.com 
-0.0.0.0 p16-sign-sg.tiktokcdn.com
 0.0.0.0 gecko-sg.tiktokv.com 
 0.0.0.0 mon.isnssdk.com 
 0.0.0.0 app-measurement.com 
@@ -35,8 +34,7 @@
 0.0.0.0 frontier.tiktokv.com 
 0.0.0.0 p16-sign-va.tiktokcdn.com 
 0.0.0.0 p58-sign-sg.tiktokcdn.com 
-0.0.0.0 api-h2.tiktokv.com 
-0.0.0.0 p16-sign-sg.tiktokcdn.com 
+0.0.0.0 api-h2.tiktokv.com  
 0.0.0.0 hotapi-sg.tiktokv.com 
 0.0.0.0 mssdk-sg.tiktokv.com 
 0.0.0.0 v16m.tiktokcdn.com 
