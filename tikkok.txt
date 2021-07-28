@@ -1,4 +1,6 @@
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 verification-va.byteoversea.com
+0.0.0.0 
 ##
 0.0.0.0 pull-flv-f1-va01.tiktokcdn.com 
 0.0.0.0 pull-flv-f1.tiktokcdn.com 
