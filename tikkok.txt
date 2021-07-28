@@ -5,8 +5,7 @@
 0.0.0.0 pull-f5-va01.tiktokcdn.com 
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com 
 0.0.0.0 mssdk-sg.tiktokv.com 
-0.0.0.0 p16-sign-sg.tiktokcdn.com 
-0.0.0.0 sf16-scmcdn-va.ibytedtos.com 
+0.0.0.0 p16-sign-sg.tiktokcdn.com
 0.0.0.0 gecko-sg.tiktokv.com 
 0.0.0.0 mon.isnssdk.com 
 0.0.0.0 app-measurement.com 
@@ -47,6 +46,5 @@
 0.0.0.0 p16a.hypstarcdn.com 
 0.0.0.0 activity.tiktok.com 
 0.0.0.0 ibytedtos.com 
-0.0.0.0 sf16-scmcdn-va.ibytedtos.com  
 0.0.0.0 log.tiktokv.com 
 ##
