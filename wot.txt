@@ -1,6 +1,9 @@
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 clickstream.online.sberbank.ru
 0.0.0.0 yabs.yandex.ru
+0.0.0.0 pxl.mirdigital.pro
+0.0.0.0 stat.tildacdn.com
+0.0.0.0 api.ruliweb.com
 0.0.0.0 c.bingapis.com
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
