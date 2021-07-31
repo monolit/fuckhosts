@@ -41,7 +41,6 @@
 0.0.0.0 a.nel.cloudflare.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 static.hotjar.com
-0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 hopin.com
 0.0.0.0 www.cnews.ru
 0.0.0.0 api.ott.yandex.ru
