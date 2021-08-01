@@ -71,7 +71,6 @@
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 mapi.speedtest.net
 0.0.0.0 api.amplitude.com
-0.0.0.0 yandex-images.clstorage.net
 0.0.0.0 resize.yandex.net
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 log.outbrainimg.com
