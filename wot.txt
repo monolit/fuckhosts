@@ -240,12 +240,14 @@
 0.0.0.0 ads.adfox.ru
 0.0.0.0 adservice.google.ru
 0.0.0.0 ads.youtube.com
-0.0.0.0 cdn.aaacdn.net0.0.0.00.0.0.00.0.0.0 connect.facebook.net
+0.0.0.0 cdn.aaacdn.net
+0.0.0.0 connect.facebook.net
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 bitrix.info
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 vk.com
-0.0.0.0 wfolio.ru0.0.0.00.0.0.00.0.0.0 d.pixiv.org
+0.0.0.0 wfolio.ru
+0.0.0.0 d.pixiv.org
 0.0.0.0 boostingads.com
 0.0.0.0 adservice.io
 0.0.0.0 cl.qualaroo.com
@@ -283,14 +285,17 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 sffsdvc.com
 0.0.0.0 kraken.rambler.ru
-0.0.0.0 www.tns-counter.ru0.0.0.00.0.0.00.0.0.0 ssp.rambler.ru
+0.0.0.0 www.tns-counter.ru
+0.0.0.0 ssp.rambler.ru
 0.0.0.0 sync.datamind.ru
 0.0.0.0 ccpa.sp-prod.net
-0.0.0.0 cmpv2.dualshokers.com0.0.0.00.0.0.00.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 cmpv2.dualshokers.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 ccalgf.com
 0.0.0.0 ads.pro-market.net
-0.0.0.0 sb.scorecardresearch.com0.0.0.00.0.0.00.0.0.0 adfokus.ru
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 adfokus.ru
 0.0.0.0 collector.githubapp.com
 0.0.0.0 sentry-cdn.com
 0.0.0.0 browser.sentry-cdn.com
