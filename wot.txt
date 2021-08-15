@@ -118,9 +118,6 @@
 0.0.0.0 push.yandex.ru
 0.0.0.0 api.messenger.yandex.net
 0.0.0.0 csp.yandex.net
-0.0.0.0 geohelper.yandex.ru
-0.0.0.0 portal.yandex.ru
-0.0.0.0 click.yandex.ru
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 shop.links.co
 0.0.0.0 b.hls.25.strpst.com
