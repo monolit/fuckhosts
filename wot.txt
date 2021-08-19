@@ -3,6 +3,7 @@
 0.0.0.0 www.adjust.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 github.s3.amazonaws.com
+0.0.0.0 zucks.co.jp
 0.0.0.0 api.venyoo.ru
 0.0.0.0 glassmilheart.com
 0.0.0.0 yoajqj.com
