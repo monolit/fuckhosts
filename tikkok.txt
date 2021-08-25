@@ -1,4 +1,5 @@
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads.tiktok.com
 0.0.0.0 verification-va.byteoversea.com
 0.0.0.0 
 ##
@@ -7,15 +8,15 @@
 0.0.0.0 pull-f5-va01.tiktokcdn.com 
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com 
 0.0.0.0 mssdk-sg.tiktokv.com 
-0.0.0.0 gecko-sg.tiktokv.com 
+0.0.0.0 gecko-sg.tiktokv.com
 0.0.0.0 mon.isnssdk.com 
 0.0.0.0 app-measurement.com 
 0.0.0.0 whoami.akamai.net 
 0.0.0.0 mon-va.tiktokv.com 
-0.0.0.0 mon-va.byteoversea.com 
+0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 p16a.hypstarcdn.com 
 0.0.0.0 sf-tk-sg.ibytedtos.com 
-0.0.0.0 sf16-scmcdn-sg.ibytedtos.com 
+0.0.0.0 sf16-scmcdn-sg.ibytedtos.com
 0.0.0.0 mon.tiktokv.com 
 0.0.0.0 api-h2.tiktokv.com 
 0.0.0.0 mcs-va.tiktokv.com 
