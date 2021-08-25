@@ -1,0 +1,7 @@
+#scamsug
+0.0.0.0 business.samsungusa.com
+
+#onesus
+0.0.0.0 click.oneplus.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 analytics.oneplus.cn
