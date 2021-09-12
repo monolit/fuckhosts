@@ -17,6 +17,4 @@
 0.0.0.0 sbbe.group-ib.ru
 0.0.0.0 vojs.group-ib.ru
 0.0.0.0 async-online.vtb.ru
-0.0.0.0 mb.vtb24.ru
 0.0.0.0 pushserver.edna.ru
-0.0.0.0 sso-app.vtb.ru
