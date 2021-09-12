@@ -6,8 +6,6 @@
 0.0.0.0 dnl-00.geo.kaspersky.com
 0.0.0.0 dnl-15.geo.kaspersky.com
 0.0.0.0 dnl-10.geo.kaspersky.com
-0.0.0.0 ddp.sberbank.ru
-0.0.0.0 cbro.sberbank.ru
 
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.dbankcloud.cn
