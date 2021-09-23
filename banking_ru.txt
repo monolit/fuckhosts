@@ -1,3 +1,11 @@
+dpm.demdex.net
+hit.acstat.com
+dp.tinkoff.ru
+ad.doubleclick.net
+statad.ru
+hit.acstat.com
+
+
 ## [SBERBAN]
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
 0.0.0.0 dc1.ksn.kaspersky-labs.com
