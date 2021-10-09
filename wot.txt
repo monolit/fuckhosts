@@ -243,7 +243,6 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 hopin.com
 0.0.0.0 www.cnews.ru
-0.0.0.0 api.ott.yandex.ru
 0.0.0.0 gm.mmstat.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 cnzz.mmstat.com
