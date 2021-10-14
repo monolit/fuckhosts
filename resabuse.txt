@@ -101,3 +101,11 @@
 
 ##  https://github.com/uBlockOrigin/uAssets/pull/818#issuecomment-365770341
 0.0.0.0 djs.sk
+
+
+
+##  JS.Redirector
+rusng.pro
+go.carryleads.online
+currencyinfo.net
+courtimplicit.info
