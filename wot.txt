@@ -1,4 +1,5 @@
 0.0.0.0 lightstep.medium.systems
+0.0.0.0 pingback.issuu.com
 0.0.0.0 content.rbc.medialand.ru
 0.0.0.0 zucks.co.jp
 0.0.0.0 adfstat.yandex.ru
