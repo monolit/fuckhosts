@@ -105,7 +105,7 @@
 
 
 ##  JS.Redirector
-rusng.pro
-go.carryleads.online
-currencyinfo.net
-courtimplicit.info
+0.0.0.0 rusng.pro
+0.0.0.0 go.carryleads.online
+0.0.0.0 currencyinfo.net
+0.0.0.0 courtimplicit.info
