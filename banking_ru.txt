@@ -9,7 +9,7 @@ hit.acstat.com
 ## [SBERBAN]
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
 0.0.0.0 dc1.ksn.kaspersky-labs.com
-
+0.0.0.0 sync.rambler.ru
 0.0.0.0 stat.online.sberbank.ru
 0.0.0.0 dnl-00.geo.kaspersky.com
 0.0.0.0 dnl-15.geo.kaspersky.com
