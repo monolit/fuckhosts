@@ -376,8 +376,6 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 cdn.trafficbass.com
 0.0.0.0 utarget.ru
-0.0.0.0 facebook.com
-0.0.0.0 www.facebook.com
 0.0.0.0 static.criteo.net
 0.0.0.0 ybej5ohp0x.ru
 0.0.0.0 s.go.mpulse.net
