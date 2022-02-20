@@ -757,8 +757,6 @@
 0.0.0.0 ymetrica1.com
 0.0.0.0 yandexmetrica.com
 0.0.0.0 www.expressapisv2.net
-0.0.0.0 mozilla.cloudflare-dns.com
-0.0.0.0 t.co
 0.0.0.0 node383.jivosite.com
 0.0.0.0 node-ya7.jivosite.com
 0.0.0.0 node344.jivosite.com
