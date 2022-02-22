@@ -1,10 +1,16 @@
 dpm.demdex.net
 hit.acstat.com
-dp.tinkoff.ru
-ad.doubleclick.net
 statad.ru
 hit.acstat.com
 
+## [TINK]
+0.0.0.0 dp.tinkoff.ru
+0.0.0.0 api.tinkoffinsurance.ru
+0.0.0.0 media.tinkoff.ru
+0.0.0.0 media.tinkoff.ru
+0.0.0.0 media.tinkoff.ru
+0.0.0.0 ms-ssp.tinkoff.ru
+0.0.0.0 webim-tknzr.tinkoff.ru
 
 ## [SBERBAN]
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
