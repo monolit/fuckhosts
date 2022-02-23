@@ -230,7 +230,6 @@
 0.0.0.0 api.ruliweb.com
 0.0.0.0 c.bingapis.com
 0.0.0.0 browser.events.data.msn.com
-0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 egress.yandex.net
 0.0.0.0 in.appcenter.ms
 0.0.0.0 assets.msn.com
