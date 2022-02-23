@@ -12,6 +12,17 @@ hit.acstat.com
 0.0.0.0 ms-ssp.tinkoff.ru
 0.0.0.0 webim-tknzr.tinkoff.ru
 
+0.0.0.0 brands-prod.cdn-tinkoff.ru
+0.0.0.0 dco.datamind.ru
+0.0.0.0 cfg.tinkoff.ru
+0.0.0.0 feature-toggle.tinkoff.ru
+0.0.0.0 pushserver.mfms.ru
+0.0.0.0 ms-dsp.tinkoff.ru
+0.0.0.0 media.tinkoff.ru
+0.0.0.0 af.gosuslugi.ru
+0.0.0.0 img-cdn.tinkoffjournal.ru
+0.0.0.0 target-static-images.cdn-tinkoff.ru
+
 ## [SBERBAN]
 0.0.0.0 dc1-file.ksn.kaspersky-labs.com
 0.0.0.0 dc1.ksn.kaspersky-labs.com
