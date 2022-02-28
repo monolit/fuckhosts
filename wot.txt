@@ -71,7 +71,6 @@
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 serve.pubapp.network
 0.0.0.0 pubapp.network
-0.0.0.0 ci4.googleusercontent.com
 0.0.0.0 wzrkt.com
 0.0.0.0 www.google.analytics.com
 0.0.0.0 hbx.media.net
