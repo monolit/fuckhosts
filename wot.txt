@@ -62,7 +62,6 @@
 0.0.0.0 www.avito.st
 0.0.0.0 www.bing.com
 0.0.0.0 www.mgid.com
-0.0.0.0 www.msftconnecttest.com
 
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 pingback.issuu.com
