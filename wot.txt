@@ -298,7 +298,6 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 a.adtng.com
-0.0.0.0 www.linkedin.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 assets.revcontent.com
 0.0.0.0 academia.trendmd.com
