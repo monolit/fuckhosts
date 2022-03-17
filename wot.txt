@@ -314,7 +314,7 @@
 0.0.0.0 t.crlcw.link
 0.0.0.0 t.adating.link
 0.0.0.0 adwile.com
-0.0.0.0 maxcdn.bootstrapcdn.com
+
 0.0.0.0 cdn.hunterdelivery.com
 0.0.0.0 rpc.php.trafficfactory.biz
 0.0.0.0 ulogs.umengcloud.com
