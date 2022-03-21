@@ -218,7 +218,7 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 app.adjust.world
 0.0.0.0 log.krs.ix.ru
-0.0.0.0 m.facebook.com
+
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 clickstream.online.sberbank.ru
 0.0.0.0 yabs.yandex.ru
