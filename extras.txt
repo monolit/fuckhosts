@@ -1,1 +1,2 @@
 0.0.0.0 www.bing.com
+0.0.0.0 m.facebook.com
