@@ -7,7 +7,7 @@ from datetime import datetime as date
 now=date.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def generateIPV4Hosts(block_list: List[str]) -> List[str]:
-    return [f"0.0.0.0 {entry}" for entry in block_list]
+    return [f"{entry}" for entry in block_list]
 
 def generateAdblockList(block_list: List[str]) -> List[str]:
     return ["||{}^".format(entry) for entry in block_list]
@@ -48,4 +48,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
