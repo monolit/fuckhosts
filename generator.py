@@ -1,7 +1,8 @@
 """Blocklistt
 """
 from typing import *
-import os, sys
+import os
+import sys
 from datetime import datetime as date
 
 now=date.now().strftime("%Y-%m-%d %H:%M:%S")
