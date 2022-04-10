@@ -478,7 +478,6 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 eventapi.libring.com
 0.0.0.0 tagan.adlightning.com
-0.0.0.0 cdn.embedly.com
 0.0.0.0 video.ads.rubiconproject.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 vid.springserve.com
