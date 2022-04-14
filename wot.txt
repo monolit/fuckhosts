@@ -9,7 +9,6 @@
 0.0.0.0 analytics.shareaholic.net
 0.0.0.0 api.metrics.heroku.com
 0.0.0.0 app.link
-0.0.0.0 appleid.cdn-apple.com
 0.0.0.0 arc.msn.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 azfitn.com
