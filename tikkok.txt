@@ -32,7 +32,6 @@
 0.0.0.0 34.102.215.99 
 0.0.0.0 62.115.252.75 
 0.0.0.0 frontier.tiktokv.com 
-0.0.0.0 p58-sign-sg.tiktokcdn.com 
 0.0.0.0 api-h2.tiktokv.com  
 0.0.0.0 hotapi-sg.tiktokv.com 
 0.0.0.0 mssdk-sg.tiktokv.com 
