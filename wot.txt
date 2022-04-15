@@ -395,7 +395,6 @@
 0.0.0.0 edugramlink.net
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 explore.api.viber.com
-0.0.0.0 www.redditmedia.com
 0.0.0.0 locp.de.viber.com
 0.0.0.0 market.viber.com
 0.0.0.0 www.re.store.ru
