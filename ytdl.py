@@ -8,10 +8,14 @@ from yt_dlp import YoutubeDL
 from PIL import Image
 
 @loader.tds
-class ytdlMod(loader.Module):
-	"""media downlod module"""
+class YTDLMod(loader.Module):
+	"""media downlod module with yt-dlp
+	usage:
+	.ytv +- thumb + reply
+	.ytv url +- thumb
+	same with yta"""
 	strings = {
-		"name": "ytdl"}
+		"name": "YTDL"}
 	def __init__(self):
 		self.name = self.strings['name']
 	async def client_ready(self, client, db):
@@ -19,18 +23,20 @@ class ytdlMod(loader.Module):
 		self.db = db
 
 	async def ytvcmd(self, message):
-		""".ytv - dowmload media"""
+		""".ytv - dowmload video media"""
 		args=utils.get_args(message)
 		reply=await message.get_reply_message()
 		await ses(self, message, args, reply, '')
 
 	async def ytacmd(self, message):
+		""".ytv - dowmload audio media"""
 		args=utils.get_args(message)
 		reply=await message.get_reply_message()
 		await ses(self, message, args, reply, 'a')
 
 async def ses(self, message, args, reply, type_):
 	opts={
+		'embed-thumbnail': True,
 		'postprocessors':[
 		#{'key': 'FFmpegVideoConvertor', 'preferedformat': 'mp4'},
 		{'key': 'SponsorBlock'},
@@ -42,8 +48,16 @@ async def ses(self, message, args, reply, type_):
 		'geo_bypass': True,
 		'outtmpl': '%(title)s.%(ext)s',
 		'add-metadata': True}
-
-	uri=args[0] if args else reply.message
+	text=reply.message if reply else None
+	if args:
+		if 'thumb' in args:thumb_=True
+		else:thumb_=False
+		if uri:=args[0]:
+			if 'http' in uri:pass
+			else:uri=text
+	else:
+		thumb_=False
+		uri=text
 	await message.edit("loading")
 
 	if type_=='a':
@@ -52,11 +66,16 @@ async def ses(self, message, args, reply, type_):
 			a, nama=await gget(uri,opts)
 		except Exception as e:
 			print(e)
-			opts['format']='ba[ext^=mp3]'
+			opts['format']='best[ext^=mp4][height<1400]'	#opts['format']='ba[ext^=mp3]'
+			opts['postprocessors'].append({'key': 'FFmpegExtractAudio','preferredcodec': 'm4a'})
 			a, nama=await gget(uri,opts)
 
+		nama=''.join(nama.split('.')[:-1])+'.m4a'
 		_ = a['uploader'] if 'uploader' in a else 'umknown'
-		th, thumb_=await get_thumb(a, message)
+
+		th, thumb=await get_thumb(a, message)
+		if thumb_:await self.client.send_file(message.to_id, th, force_document=False)
+
 		await self.client.send_file(
 			message.to_id,
 			nama,
@@ -78,8 +97,8 @@ async def ses(self, message, args, reply, type_):
 			opts['format']='best[ext^=mp4][height<1400]'
 			a, nama=await gget(uri,opts)
 
-		th, thumb_=await get_thumb(a, message)
-		await self.client.send_file(message.to_id, th, force_document=False)
+		th, thumb=await get_thumb(a, message)
+		if thumb_:await self.client.send_file(message.to_id, th, force_document=False)
 
 		await self.client.send_file(
 			message.to_id,
@@ -90,7 +109,7 @@ async def ses(self, message, args, reply, type_):
 			supports_streaming=True,
 			caption=await readable(a, type_))
 
-	[os.remove(i) for i in [nama, th, thumb_]]
+	[os.remove(i) for i in [nama, th, thumb]]
 	await message.delete()
 
 async def gget(uri, opts):
@@ -115,5 +134,6 @@ ext:{a['ext']} """
 	else:
 		try:fps=a['fps']
 		except:fps=None
-		_+=f"res:{a['resolution']}"+f"fps:{fps}" if fps else ''
+		_+=f"res:{a['format']}"
+		_+=f"fps:{fps}" if fps else ''
 	return _
