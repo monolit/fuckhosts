@@ -1,5 +1,8 @@
 # hosts
-https://monolit.github.io/fuckhosts/hosts.txt (
+https://monolit.github.io/fuckhosts/output/hosts.txt
+
+https://monolit.github.io/fuckhosts/output/adblok.txt
+
 **``useful:``**
 
 https://github.com/gorhill/uBlock
