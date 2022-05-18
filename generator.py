@@ -40,7 +40,7 @@ def sorter(domains:list[str], mode):
             if mode in ['hosts', 'list']:
                 if mode=='hosts':string='0.0.0.0 '
                 else:string=''
-                entries += f'\n# {domain}\n' + '\n'.join(['{}{}'.format(string, entry) for entry in [''.join(j) for j in so_]])
+                entries += f'\n# {domain}\n' + '\n'.join(['{}{}'.format(string, entry) for entry in [''.join(j) for j in so_]]) + '\n'
 
             elif mode=='adblock':
                 entries += '\n||{}^'.format(domain)
