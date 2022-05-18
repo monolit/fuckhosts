@@ -1,48 +1,48 @@
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 ads.tiktok.com
-0.0.0.0 verification-va.byteoversea.com
-0.0.0.0 
+analytics.tiktok.com
+ads.tiktok.com
+verification-va.byteoversea.com
+
 ##
-0.0.0.0 pull-flv-f1-va01.tiktokcdn.com 
-0.0.0.0 pull-flv-f1.tiktokcdn.com 
-0.0.0.0 pull-f5-va01.tiktokcdn.com 
-0.0.0.0 pull-rtmp-l11.tiktokcdn.com 
-0.0.0.0 mssdk-sg.tiktokv.com 
-0.0.0.0 gecko-sg.tiktokv.com
-0.0.0.0 mon.isnssdk.com 
-0.0.0.0 app-measurement.com 
-0.0.0.0 whoami.akamai.net 
-0.0.0.0 mon-va.tiktokv.com 
-0.0.0.0 mon-va.byteoversea.com
-0.0.0.0 p16a.hypstarcdn.com 
-0.0.0.0 sf-tk-sg.ibytedtos.com 
-0.0.0.0 sf16-scmcdn-sg.ibytedtos.com
-0.0.0.0 mon.tiktokv.com 
-0.0.0.0 api-h2.tiktokv.com 
-0.0.0.0 mcs-va.tiktokv.com 
-0.0.0.0 log.tiktokv.com 
+pull-flv-f1-va01.tiktokcdn.com 
+pull-flv-f1.tiktokcdn.com 
+pull-f5-va01.tiktokcdn.com 
+pull-rtmp-l11.tiktokcdn.com 
+mssdk-sg.tiktokv.com 
+gecko-sg.tiktokv.com
+mon.isnssdk.com 
+app-measurement.com 
+whoami.akamai.net 
+mon-va.tiktokv.com 
+mon-va.byteoversea.com
+p16a.hypstarcdn.com 
+sf-tk-sg.ibytedtos.com 
+sf16-scmcdn-sg.ibytedtos.com
+mon.tiktokv.com 
+api-h2.tiktokv.com 
+mcs-va.tiktokv.com 
+log.tiktokv.com 
 ##
-0.0.0.0 api21-normal-c-alisg.tiktokv.com 
-0.0.0.0 api-h2.tiktokv.com 
-0.0.0.0 webcast21-normal-c-alisg.tiktokv.com 
-0.0.0.0 p58-va.tiktokcdn.com 
-0.0.0.0 p58-sg.tiktokcdn.com 
-0.0.0.0 webcast19-normal-c-alisg.tiktokv.com 
-0.0.0.0 jsb-sg.tiktokv.com 
-0.0.0.0 34.102.215.99 
-0.0.0.0 62.115.252.75 
-0.0.0.0 frontier.tiktokv.com 
-0.0.0.0 api-h2.tiktokv.com  
-0.0.0.0 hotapi-sg.tiktokv.com 
-0.0.0.0 mssdk-sg.tiktokv.com 
-0.0.0.0 v16m.tiktokcdn.com 
-0.0.0.0 webcast16-normal-c-alisg.tiktokv.com 
-0.0.0.0 api16-core-c-alisg.tiktokv.com 
-0.0.0.0 v16m.tiktokcdn.com 
-0.0.0.0 gecko-sg.tiktokv.com 
-0.0.0.0 webcast16-normal-c-alisg.tiktokv.com 
-0.0.0.0 p16a.hypstarcdn.com 
-0.0.0.0 activity.tiktok.com 
-0.0.0.0 ibytedtos.com 
-0.0.0.0 log.tiktokv.com 
+api21-normal-c-alisg.tiktokv.com 
+api-h2.tiktokv.com 
+webcast21-normal-c-alisg.tiktokv.com 
+p58-va.tiktokcdn.com 
+p58-sg.tiktokcdn.com 
+webcast19-normal-c-alisg.tiktokv.com 
+jsb-sg.tiktokv.com 
+34.102.215.99 
+62.115.252.75 
+frontier.tiktokv.com 
+api-h2.tiktokv.com  
+hotapi-sg.tiktokv.com 
+mssdk-sg.tiktokv.com 
+v16m.tiktokcdn.com 
+webcast16-normal-c-alisg.tiktokv.com 
+api16-core-c-alisg.tiktokv.com 
+v16m.tiktokcdn.com 
+gecko-sg.tiktokv.com 
+webcast16-normal-c-alisg.tiktokv.com 
+p16a.hypstarcdn.com 
+activity.tiktok.com 
+ibytedtos.com 
+log.tiktokv.com 
 ##

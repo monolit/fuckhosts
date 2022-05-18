@@ -1,111 +1,111 @@
 ##original: https://github.com/uBlockOrigin/uAssets/blob/master/filters/resource-abuse.txt
 
 
-0.0.0.0 rawgit.com
-0.0.0.0 revdl.com
-0.0.0.0 edu.ro
-0.0.0.0 upgraderservices.cf
+rawgit.com
+revdl.com
+edu.ro
+upgraderservices.cf
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/1116
-0.0.0.0 cloudfront.net
+cloudfront.net
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/659
-0.0.0.0 edgemesh.com
-0.0.0.0 edgeno.de
+edgemesh.com
+edgeno.de
 
 ##  https://github.com/hoshsadiq/adblock-nocoin-list/issues/101
-0.0.0.0 alltube.tv
-0.0.0.0 lewd.ninja
-0.0.0.0 milujivareni.cz
-0.0.0.0 subswiki.com
+alltube.tv
+lewd.ninja
+milujivareni.cz
+subswiki.com
 
 ##  https://github.com/hoshsadiq/adblock-nocoin-list/issues/104
-0.0.0.0 fileone.tv
+fileone.tv
 
 ##  https://github.com/easylist/easylist/issues/861
-0.0.0.0 tubettajat.net
-0.0.0.0 cryweb.github.io
-0.0.0.0 crywebber.github.io
+tubettajat.net
+cryweb.github.io
+crywebber.github.io
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/803
-0.0.0.0 safelinkconverter.com
+safelinkconverter.com
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/7449
-0.0.0.0 csgo.xyz
-0.0.0.0 mailboxdelivery.com
+csgo.xyz
+mailboxdelivery.com
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/6433
-0.0.0.0 backend.dna-delivery.com
-0.0.0.0 cdn.streamroot.io
+backend.dna-delivery.com
+cdn.streamroot.io
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/6433#issuecomment-817198277
-0.0.0.0 france.tv
+france.tv
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/3643
-0.0.0.0 void.cat
+void.cat
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/3653
-0.0.0.0 wallpoper.com
+wallpoper.com
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/4082
-0.0.0.0 123moviesgo.nl
-0.0.0.0 bmovies123.me
-0.0.0.0 fmoviesgo.me
-0.0.0.0 skytorrents.me
-0.0.0.0 fiddle.jshell.net
+123moviesgo.nl
+bmovies123.me
+fmoviesgo.me
+skytorrents.me
+fiddle.jshell.net
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/3134
-0.0.0.0 unblocktheship.org
+unblocktheship.org
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/4893
-0.0.0.0 protect-link.biz
+protect-link.biz
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/3542
-0.0.0.0 hdvid.tv
+hdvid.tv
 
 ##  https://forums.lanik.us/viewtopic.php?f=90&t=40270
-0.0.0.0 nxload.co
+nxload.co
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/1782
-0.0.0.0 sleeptimer.org
+sleeptimer.org
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/1826
-0.0.0.0 powvideo.net
+powvideo.net
 
 ##  https://github.com/gorhill/uBlock/issues/3675
-0.0.0.0 potomy.ru
+potomy.ru
 
 ##  https://github.com/hoshsadiq/adblock-nocoin-list/pull/204
-0.0.0.0 ianimes.co
+ianimes.co
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/2198
-0.0.0.0 megapastes.com
+megapastes.com
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/2309#issuecomment-389725332
-0.0.0.0 sickrage.ca
-0.0.0.0 sorteosrd.com
+sickrage.ca
+sorteosrd.com
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/3139
-0.0.0.0 tomadivx.tv
+tomadivx.tv
 
 ##  https://www.reddit.com/r/uBlockOrigin/comments/7tgjce/new_cryptocurrency_mining_website_not_blocked_by/
-0.0.0.0 tasma.ru
+tasma.ru
 
 ##  https://github.com/hoshsadiq/adblock-nocoin-list/issues/137
-0.0.0.0 leitor.net
+leitor.net
 
 ##  https://github.com/uBlockOrigin/uAssets/issues/1503
-0.0.0.0 shrink-service.it
-0.0.0.0 flashx.pw
-0.0.0.0 vidoza.net
+shrink-service.it
+flashx.pw
+vidoza.net
 
 ##  https://github.com/uBlockOrigin/uAssets/pull/818#issuecomment-365770341
-0.0.0.0 djs.sk
+djs.sk
 
 
 
 ##  JS.Redirector
-0.0.0.0 rusng.pro
-0.0.0.0 go.carryleads.online
-0.0.0.0 currencyinfo.net
-0.0.0.0 courtimplicit.info
+rusng.pro
+go.carryleads.online
+currencyinfo.net
+courtimplicit.info

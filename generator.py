@@ -2,16 +2,17 @@
 """
 from typing import *
 import os
-import sys
 from datetime import datetime as date
 
+
 now=date.now().strftime("%Y-%m-%d %H:%M:%S")
+from . import mod
 
-def generateIPV4Hosts(block_list: List[str]) -> List[str]:
-    return [f"{entry}" for entry in block_list]
+def generateIPV4Hosts(block_list: list):
+    return mod.main(now, block_list, 'hosts')
 
-def generateAdblockList(block_list: List[str]) -> List[str]:
-    return ["||{}^".format(entry) for entry in block_list]
+def generateAdblockList(block_list: list):
+    return mod.main(now, block_list, 'adblock')
 
 
 # All generators
@@ -27,13 +28,12 @@ file_list=[
 ]
 
 def main() -> int:
-
     # Load the block list to a newline-seperated list
     entries = []
     for i in file_list:
     	with open(i, "r") as f:
-        	rr=f.read().split("\n")
-        	[entries.append(i) for i in rr]
+            rr=f.read().split("\n")
+            [entries.append(i) for i in rr]
 
     # Filter empty lines
     entries = list(filter(None, entries))

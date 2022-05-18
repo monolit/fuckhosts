@@ -1,61 +1,61 @@
-0.0.0.0 dot-stat.radikal.ru
-0.0.0.0 code.directadvert.ru
+dot-stat.radikal.ru
+code.directadvert.ru
 
 
-0.0.0.0 inv-nets.admixer.net
-0.0.0.0 iact.atdmt.com
-0.0.0.0 flex.msn.com
-0.0.0.0 otf.msn.com
-0.0.0.0 trafficgateway.research-int.se
-0.0.0.0 my.trackjs.com
-0.0.0.0 image.atdmt.com
-0.0.0.0 img.atdmt.com
-0.0.0.0 www.atdmt.com
-0.0.0.0 analytics.newsvine.com
-0.0.0.0 tracking.bannerflow.com
-0.0.0.0 api.atdmt.com
-0.0.0.0 bidclix.net
-0.0.0.0 www.bidclix.net
-0.0.0.0 collector.deepmetrix.com
-0.0.0.0 www.deepmetrix.com
-0.0.0.0 adsyndication.msn.com
-0.0.0.0 c.no.msn.com
-0.0.0.0 log.newsvine.com
-0.0.0.0 e3.adpushup.com
-0.0.0.0 mt.adquality.ch
-0.0.0.0 data.queryly.com
-0.0.0.0 analytics.atdmt.com
-0.0.0.0 c1.atdmt.com
-0.0.0.0 h.atdmt.com
-0.0.0.0 c.bing.com
-0.0.0.0 analytics.breakingnews.com
-0.0.0.0 analytics.live.com
-0.0.0.0 digg.analytics.live.com
-0.0.0.0 madserver.net
-0.0.0.0 ads1.msads.net
-0.0.0.0 a.ads1.msads.net
-0.0.0.0 a.ads2.msads.net
-0.0.0.0 b.ads2.msads.net
-0.0.0.0 analytics.msn.com
-0.0.0.0 ads.eu.msn.com
-0.0.0.0 images.adsyndication.msn.com
-0.0.0.0 analytics.msnbc.msn.com
-0.0.0.0 blu.mobileads.msn.com
-0.0.0.0 col.mobileads.msn.com
-0.0.0.0 popup.msn.com
-0.0.0.0 analytics.r.msn.com
-0.0.0.0 rmads.msn.com
-0.0.0.0 rmads.eu.msn.com
-0.0.0.0 analytics.msnbc.com
-0.0.0.0 msn.serving-sys.com
-0.0.0.0 click.atdmt.com
+inv-nets.admixer.net
+iact.atdmt.com
+flex.msn.com
+otf.msn.com
+trafficgateway.research-int.se
+my.trackjs.com
+image.atdmt.com
+img.atdmt.com
+www.atdmt.com
+analytics.newsvine.com
+tracking.bannerflow.com
+api.atdmt.com
+bidclix.net
+www.bidclix.net
+collector.deepmetrix.com
+www.deepmetrix.com
+adsyndication.msn.com
+c.no.msn.com
+log.newsvine.com
+e3.adpushup.com
+mt.adquality.ch
+data.queryly.com
+analytics.atdmt.com
+c1.atdmt.com
+h.atdmt.com
+c.bing.com
+analytics.breakingnews.com
+analytics.live.com
+digg.analytics.live.com
+madserver.net
+ads1.msads.net
+a.ads1.msads.net
+a.ads2.msads.net
+b.ads2.msads.net
+analytics.msn.com
+ads.eu.msn.com
+images.adsyndication.msn.com
+analytics.msnbc.msn.com
+blu.mobileads.msn.com
+col.mobileads.msn.com
+popup.msn.com
+analytics.r.msn.com
+rmads.msn.com
+rmads.eu.msn.com
+analytics.msnbc.com
+msn.serving-sys.com
+click.atdmt.com
 
-0.0.0.0 analytics.live.com
-0.0.0.0 targeting.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 smetric.ads.microsoft.com
-0.0.0.0 ingads.microsoft.com
-0.0.0.0 advertise.bingads.microsoft.com
-0.0.0.0 si.bingads.microsoft.com
+analytics.live.com
+targeting.microsoft.com
+sqm.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+smetric.ads.microsoft.com
+ingads.microsoft.com
+advertise.bingads.microsoft.com
+si.bingads.microsoft.com

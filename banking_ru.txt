@@ -4,41 +4,41 @@ statad.ru
 hit.acstat.com
 
 ## [TINK]
-0.0.0.0 dp.tinkoff.ru
-0.0.0.0 api.tinkoffinsurance.ru
-0.0.0.0 media.tinkoff.ru
-0.0.0.0 media.tinkoff.ru
-0.0.0.0 media.tinkoff.ru
-0.0.0.0 ms-ssp.tinkoff.ru
-0.0.0.0 webim-tknzr.tinkoff.ru
+dp.tinkoff.ru
+api.tinkoffinsurance.ru
+media.tinkoff.ru
+media.tinkoff.ru
+media.tinkoff.ru
+ms-ssp.tinkoff.ru
+webim-tknzr.tinkoff.ru
 
-0.0.0.0 brands-prod.cdn-tinkoff.ru
-0.0.0.0 dco.datamind.ru
-0.0.0.0 cfg.tinkoff.ru
-0.0.0.0 feature-toggle.tinkoff.ru
-0.0.0.0 pushserver.mfms.ru
-0.0.0.0 ms-dsp.tinkoff.ru
-0.0.0.0 media.tinkoff.ru
-0.0.0.0 af.gosuslugi.ru
-0.0.0.0 img-cdn.tinkoffjournal.ru
-0.0.0.0 target-static-images.cdn-tinkoff.ru
+brands-prod.cdn-tinkoff.ru
+dco.datamind.ru
+cfg.tinkoff.ru
+feature-toggle.tinkoff.ru
+pushserver.mfms.ru
+ms-dsp.tinkoff.ru
+media.tinkoff.ru
+af.gosuslugi.ru
+img-cdn.tinkoffjournal.ru
+target-static-images.cdn-tinkoff.ru
 
 ## [SBERBAN]
-0.0.0.0 dc1-file.ksn.kaspersky-labs.com
-0.0.0.0 dc1.ksn.kaspersky-labs.com
-0.0.0.0 sync.rambler.ru
-0.0.0.0 stat.online.sberbank.ru
-0.0.0.0 dnl-00.geo.kaspersky.com
-0.0.0.0 dnl-15.geo.kaspersky.com
-0.0.0.0 dnl-10.geo.kaspersky.com
+dc1-file.ksn.kaspersky-labs.com
+dc1.ksn.kaspersky-labs.com
+sync.rambler.ru
+stat.online.sberbank.ru
+dnl-00.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 
-0.0.0.0 grs.dbankcloud.com
-0.0.0.0 grs.dbankcloud.cn
-0.0.0.0 grs.dbankcloud.eu
-0.0.0.0 grs.dbankcloud.asia
-0.0.0.0 pushtrs9.push.hicloud.com
+grs.dbankcloud.com
+grs.dbankcloud.cn
+grs.dbankcloud.eu
+grs.dbankcloud.asia
+pushtrs9.push.hicloud.com
 ## [VTB]
-0.0.0.0 sbbe.group-ib.ru
-0.0.0.0 sbbe.group-ib.ru
-0.0.0.0 vojs.group-ib.ru
-0.0.0.0 pushserver.edna.ru
+sbbe.group-ib.ru
+sbbe.group-ib.ru
+vojs.group-ib.ru
+pushserver.edna.ru

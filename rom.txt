@@ -1,439 +1,439 @@
 ##OEM ====================
 #Realme
-0.0.0.0 bdapi-in-ads.realmemobile.com
-0.0.0.0 ata-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+ata-ads.realmemobile.com
 
 #OPPO
-0.0.0.0 adsfs.oppomobile.com
-0.0.0.0 adx.ads.oppomobile.com
-0.0.0.0 bdapi.ads.oppomobile.com
-0.0.0.0 ck.ads.oppomobile.com
-0.0.0.0 data.ads.oppomobile.com
-0.0.0.0 g1.ads.oppomobile.com
+adsfs.oppomobile.com
+adx.ads.oppomobile.com
+bdapi.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+g1.ads.oppomobile.com
 
 #Xiaomi
-0.0.0.0 ad.xiaomi.com    
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 app.chat.xiaomi.net
-0.0.0.0 data.mistat.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.india.xiaomi.com
-0.0.0.0 data.mistat.rus.xiaomi.com
-0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 stat.xiaomi.com
-0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 www.cdn.ad.xiaomi.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 sa.api.intl.miui.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 tracking.intl.miui.com
-0.0.0.0 tracking.india.miui.com
-0.0.0.0 tracking.rus.miui.com
+ad.xiaomi.com    
+api.ad.xiaomi.com
+app.chat.xiaomi.net
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+stat.xiaomi.com
+globalapi.ad.xiaomi.com
+www.cdn.ad.xiaomi.com
+tracking.miui.com
+sa.api.intl.miui.com
+tracking.miui.com
+tracking.intl.miui.com
+tracking.india.miui.com
+tracking.rus.miui.com
 
 #onesus
-0.0.0.0 analytics.oneplus.cn
-0.0.0.0 click.oneplus.cn
-0.0.0.0 click.oneplus.com
-0.0.0.0 open.oneplus.net
+analytics.oneplus.cn
+click.oneplus.cn
+click.oneplus.com
+open.oneplus.net
 
 #Huawei
-0.0.0.0 metrics.data.hicloud.com
-0.0.0.0 metrics1.data.hicloud.com
-0.0.0.0 metrics2.data.hicloud.com
-0.0.0.0 metrics3.data.hicloud.com
-0.0.0.0 metrics4.data.hicloud.com
-0.0.0.0 metrics5.data.hicloud.com 
-0.0.0.0 logservice.hicloud.com
-0.0.0.0 logservice1.hicloud.com
-0.0.0.0 metrics-dra.dt.hicloud.com
-0.0.0.0 logbak.hicloud.com
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
 
 #scamsug
-0.0.0.0 ad.samsungadhub.com
-0.0.0.0 samsungadhub.com
-0.0.0.0 ad.samsungads.com
-0.0.0.0 samsungads.com
-0.0.0.0 smetrics.samsung.com
-0.0.0.0 nmetrics.samsung.com
-0.0.0.0 samsung-com.112.2o7.net
-0.0.0.0 business.samsungusa.com
-0.0.0.0 analytics.samsungknox.com
-0.0.0.0 bigdata.ssp.samsung.com
-0.0.0.0 analytics-api.samsunghealthcn.com
-0.0.0.0 config.samsungads.com
+ad.samsungadhub.com
+samsungadhub.com
+ad.samsungads.com
+samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+business.samsungusa.com
+analytics.samsungknox.com
+bigdata.ssp.samsung.com
+analytics-api.samsunghealthcn.com
+config.samsungads.com
 
 #apol
-0.0.0.0 metrics.apple.com
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 supportmetrics.apple.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 metrics.mzstatic.com
-0.0.0.0 dzc-metrics.mzstatic.com
-0.0.0.0 books-analytics-events.news.apple-dns.net
-0.0.0.0 books-analytics-events.apple.com
-0.0.0.0 stocks-analytics-events.apple.com
-0.0.0.0 stocks-analytics-events.news.apple-dns.net
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+dzc-metrics.mzstatic.com
+books-analytics-events.news.apple-dns.net
+books-analytics-events.apple.com
+stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple-dns.net
 
 # ximi2
-0.0.0.0 sa.api.intl.miui.com
-0.0.0.0 a.netcheck.gallery.pandora.xiaomi.com
-0.0.0.0 a.stat.xiaomi.com
-0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
-0.0.0.0 activity.browser.intl.miui.com
-0.0.0.0 ad.mi.com
-0.0.0.0 ad.xiaomi.com
-0.0.0.0 ad1.xiaomi.com
-0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
-0.0.0.0 adv.sec.intl.miui.com
-0.0.0.0 adv.sec.miui.com
-0.0.0.0 advertisement.moguv.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 api.admob.xiaomi.com
-0.0.0.0 api.brs.intl.miui.com
-0.0.0.0 api.chat.xiaomi.net
-0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 api.comm.miui.com
-0.0.0.0 api.cupid.ptqy.gitv.tv
-0.0.0.0 api.d.xiaomi.com
-0.0.0.0 api.hybrid.intl.xiaomi.com
-0.0.0.0 api.io.mi.com
-0.0.0.0 api.miui.security.xiaomi.com
-0.0.0.0 api.newsfeed.intl.miui.com
-0.0.0.0 api.ra2.xlmc.sec.miui.com
-0.0.0.0 api.sec.intl.miui.com
-0.0.0.0 api.sec.miui.com
-0.0.0.0 api.setting.intl.miui.com
-0.0.0.0 api.tw06.xlmc.sec.miui.com
-0.0.0.0 api.xmpush.xiaomi.com
-0.0.0.0 app.chat.xiaomi.net
-0.0.0.0 app.migc.xiaomi.com
-0.0.0.0 app01.nodes.gslb.mi-idc.com
-0.0.0.0 app02.nodes.gslb.mi-idc.com
-0.0.0.0 appstore.cdn.pandora.xiaomi.com
-0.0.0.0 appstore.pandora.xiaomi.com
-0.0.0.0 assistant.pandora.xiaomi.com
-0.0.0.0 auth.be.sec.miui.com
-0.0.0.0 authbe.sec.intl.miui.com
-0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
-0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
-0.0.0.0 bbs.game.xiaomi.com
-0.0.0.0 be01.hh.xiaomi.com
-0.0.0.0 bgp.fe01.c3.xiaomi.com
-0.0.0.0 bk01.hh.xiaomi.com
-0.0.0.0 broker.mqtt.pandora.xiaomi.com
-0.0.0.0 bss.pandora.xiaomi.com
-0.0.0.0 calopenupdate.comm.miui.com
-0.0.0.0 cc.sys.intl.xiaomi.com
-0.0.0.0 cc.sys.miui.com
-0.0.0.0 ccc.sys.intl.xiaomi.com
-0.0.0.0 ccc.sys.miui.com
-0.0.0.0 cdn.ad.xiaomi.com
-0.0.0.0 cdn.fds-ssl.api.xiaomi.com
-0.0.0.0 clock.ad.xiaomi.com
-0.0.0.0 cnc.fe01.lg.xiaomi.com
-0.0.0.0 config.kuyun.com
-0.0.0.0 ctc.fe01.c3.xiaomi.com
-0.0.0.0 ctc.fe02.c3.xiaomi.com
-0.0.0.0 d.xiaomi.com
-0.0.0.0 data.game.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
-0.0.0.0 data.sec.miui.com
-0.0.0.0 de.pandora.xiaomi.com
-0.0.0.0 dvb.pandora.xiaomi.com
-0.0.0.0 e.ad.xiaomi.com
-0.0.0.0 f1.g.mi.com
-0.0.0.0 fcanr.tracking.miui.com
-0.0.0.0 fe02.lg.xiaomi.com
-0.0.0.0 fe05.lg.xiaomi.com
-0.0.0.0 file.market.xiaomi.com
-0.0.0.0 file.xmpush.xiaomi.com
-0.0.0.0 fr.app.chat.global.xiaomi.net
-0.0.0.0 gallery.cdn.pandora.xiaomi.com
-0.0.0.0 gallery.p2p.pandora.xiaomi.com
-0.0.0.0 gallery.pandora.xiaomi.com
-0.0.0.0 geofence.sys.miui.com
-0.0.0.0 global.search.xiaomi.net
-0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 gvod.aiseejapp.atianqi.com
-0.0.0.0 hd.xiaomi.com
-0.0.0.0 hd02.lg.xiaomi.com
-0.0.0.0 heyue.xiaomi.com
-0.0.0.0 hk.mibi.xiaomi.com
-0.0.0.0 hm.xiaomi.com
-0.0.0.0 huangye.miui.com
-0.0.0.0 huodong.xiaomi.com
-0.0.0.0 huosai.xiaomi.com
-0.0.0.0 i.xiaomi.com
-0.0.0.0 igame.xiaomi.com
-0.0.0.0 image.box.xiaomi.com
-0.0.0.0 image.cdn.mvideo.xiaomi.com
-0.0.0.0 image.cdn.pandora.xiaomi.com
-0.0.0.0 image.pandora.xiaomi.com
-0.0.0.0 ime.api.xiaomi.com
-0.0.0.0 imgg.traffic-media.co
-0.0.0.0 imgg.traffic-media.coiosdl.game.xiaomi.com
-0.0.0.0 info.analysis.kp.sec.miui.com
-0.0.0.0 info.sec.miui.com
-0.0.0.0 iosdl.game.xiaomi.com
-0.0.0.0 jellyfish.pandora.xiaomi.com
-0.0.0.0 lbs.pandora.xiaomi.com
-0.0.0.0 lg-bgp.pandora.xiaomi.com
-0.0.0.0 logonext.tv.kuyun.com
-0.0.0.0 logupdate.avlyun.sec.miui.com
-0.0.0.0 m.bss.pandora.xiaomi.com
-0.0.0.0 mazu.sec.miui.com
-0.0.0.0 mcc.intl.inf.miui.com
-0.0.0.0 meihua.xiaomi.com
-0.0.0.0 metok.sys.miui.com
-0.0.0.0 metok-ccc.intl.xiaomi.com
-0.0.0.0 mibi.api.xiaomi.com
-0.0.0.0 mibi.xiaomi.com
-0.0.0.0 milink.pandora.xiaomi.com
-0.0.0.0 mis.migc.xiaomi.com
-0.0.0.0 misc.pandora.xiaomi.com
-0.0.0.0 mishop.cdn.pandora.xiaomi.com
-0.0.0.0 mishop.pandora.xiaomi.com
-0.0.0.0 mitunes.game.xiaomi.com
-0.0.0.0 mlog.search.xiaomi.net
-0.0.0.0 mp.huangye.miui.com
-0.0.0.0 new.api.ad.xiaomi.com
-0.0.0.0 notice.game.xiaomi.com
-0.0.0.0 o2o.api.xiaomi.com
-0.0.0.0 order.music.xiaomi.com
-0.0.0.0 ota.cdn.pandora.xiaomi.com
-0.0.0.0 package.cdn.pandora.xiaomi.com
-0.0.0.0 pandora.mi.com
-0.0.0.0 pmall.migc.xiaomi.com
-0.0.0.0 ppurifier.game.xiaomi.com
-0.0.0.0 ptmi.gitv.pandora.xiaomi.com
-0.0.0.0 qiye.xiaomi.com
-0.0.0.0 r.browser.miui.com
-0.0.0.0 r.sg.sec.miui.com
-0.0.0.0 reader.browser.miui.com
-0.0.0.0 register.xmpush.xiaomi.com
-0.0.0.0 resolver.msg.global.xiaomi.net
-0.0.0.0 resolver.msg.xiaomi.net
-0.0.0.0 ru.o2o.api.xiaomi.com
-0.0.0.0 sandbox.xmpush.xiaomi.com
-0.0.0.0 scraper.pandora.xiaomi.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 sec.resource.xiaomi.net
-0.0.0.0 sec-cdn.static.xiaomi.net
-0.0.0.0 secode2.hd.xiaomi.com
-0.0.0.0 sgpac.account.xiaomi.com
-0.0.0.0 shenghuo.xiaomi.com
-0.0.0.0 shoes.app-xae.xiaomi.com
-0.0.0.0 solve.msg.xiaomi.net
-0.0.0.0 ssp.ad.xiaomi.com
-0.0.0.0 staging.ai.api.xiaomi.com
-0.0.0.0 starfish.pandora.xiaomi.com
-0.0.0.0 stat.pandora.xiaomi.com
-0.0.0.0 stat.xiaomi.com
-0.0.0.0 static.game.xiaomi.com
-0.0.0.0 static.mibi.xiaomi.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
-0.0.0.0 t1.g.mi.com
-0.0.0.0 tc.hd.xiaomi.com
-0.0.0.0 tel.fe01.hh.xiaomi.com
-0.0.0.0 test.ad.xiaomi.com
-0.0.0.0 test.e.ad.xiaomi.com
-0.0.0.0 test.new.api.ad.xiaomi.com
-0.0.0.0 tracking.intl.miui.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 trial.api.huangye.miui.com
-0.0.0.0 tv.app.migc.xiaomi.com
-0.0.0.0 upgrade.mishop.pandora.xiaomi.com
-0.0.0.0 voip.game.xiaomi.com
-0.0.0.0 wallpaper.cdn.pandora.xiaomi.com
-0.0.0.0 wallpaper.pandora.xiaomi.com
-0.0.0.0 wap.game.xiaomi.com
-0.0.0.0 www.a.netcheck.gallery.pandora.xiaomi.com
-0.0.0.0 www.a.stat.xiaomi.com
-0.0.0.0 www.abtest.mistat.intl.xiaomi.com
-0.0.0.0 www.abtest.mistat.xiaomi.com
-0.0.0.0 www.activity.browser.intl.miui.com
-0.0.0.0 www.ad.mi.com
-0.0.0.0 www.ad.xiaomi.com
-0.0.0.0 www.ad1.xiaomi.com
-0.0.0.0 www.adinfo.ra1.xlmc.sec.miui.com
-0.0.0.0 www.adv.sec.intl.miui.com
-0.0.0.0 www.adv.sec.miui.com
-0.0.0.0 www.advertisement.moguv.com
-0.0.0.0 www.api.ad.intl.xiaomi.com
-0.0.0.0 www.api.ad.xiaomi.com
-0.0.0.0 www.api.admob.xiaomi.com
-0.0.0.0 www.api.brs.intl.miui.com
-0.0.0.0 www.api.chat.xiaomi.net
-0.0.0.0 www.api.collect.data.intl.miui.com
-0.0.0.0 www.api.comm.miui.com
-0.0.0.0 www.api.cupid.ptqy.gitv.tv
-0.0.0.0 www.api.d.xiaomi.com
-0.0.0.0 www.api.hybrid.intl.xiaomi.com
-0.0.0.0 www.api.io.mi.com
-0.0.0.0 www.api.miui.security.xiaomi.com
-0.0.0.0 www.api.newsfeed.intl.miui.com
-0.0.0.0 www.api.ra2.xlmc.sec.miui.com
-0.0.0.0 www.api.sec.intl.miui.com
-0.0.0.0 www.api.sec.miui.com
-0.0.0.0 www.api.setting.intl.miui.com
-0.0.0.0 www.api.tw06.xlmc.sec.miui.com
-0.0.0.0 www.api.xmpush.xiaomi.com
-0.0.0.0 www.app.chat.xiaomi.net
-0.0.0.0 www.app.migc.xiaomi.com
-0.0.0.0 www.app01.nodes.gslb.mi-idc.com
-0.0.0.0 www.app02.nodes.gslb.mi-idc.com
-0.0.0.0 www.appstore.cdn.pandora.xiaomi.com
-0.0.0.0 www.appstore.pandora.xiaomi.com
-0.0.0.0 www.assistant.pandora.xiaomi.com
-0.0.0.0 www.auth.be.sec.miui.com
-0.0.0.0 www.authbe.sec.intl.miui.com
-0.0.0.0 www.awsusor0-cdn.fds-ssl.api.xiaomi.com
-0.0.0.0 www.b.netcheck.gallery.pandora.xiaomi.com
-0.0.0.0 www.bbs.game.xiaomi.com
-0.0.0.0 www.be01.hh.xiaomi.com
-0.0.0.0 www.bgp.fe01.c3.xiaomi.com
-0.0.0.0 www.bk01.hh.xiaomi.com
-0.0.0.0 www.broker.mqtt.pandora.xiaomi.com
-0.0.0.0 www.bss.pandora.xiaomi.com
-0.0.0.0 www.calopenupdate.comm.miui.com
-0.0.0.0 www.cc.sys.intl.xiaomi.com
-0.0.0.0 www.cc.sys.miui.com
-0.0.0.0 www.ccc.sys.intl.xiaomi.com
-0.0.0.0 www.ccc.sys.miui.com
-0.0.0.0 www.cdn.ad.xiaomi.com
-0.0.0.0 www.cdn.fds-ssl.api.xiaomi.com
-0.0.0.0 www.clock.ad.xiaomi.com
-0.0.0.0 www.cnc.fe01.lg.xiaomi.com
-0.0.0.0 www.config.kuyun.com
-0.0.0.0 www.ctc.fe01.c3.xiaomi.com
-0.0.0.0 www.ctc.fe02.c3.xiaomi.com
-0.0.0.0 www.d.xiaomi.com
-0.0.0.0 www.data.game.xiaomi.com
-0.0.0.0 www.data.mistat.intl.xiaomi.com
-0.0.0.0 www.data.mistat.xiaomi.com
-0.0.0.0 www.data.sec.miui.com
-0.0.0.0 www.de.pandora.xiaomi.com
-0.0.0.0 www.dvb.pandora.xiaomi.com
-0.0.0.0 www.e.ad.xiaomi.com
-0.0.0.0 www.f1.g.mi.com
-0.0.0.0 www.fcanr.tracking.miui.com
-0.0.0.0 www.fe02.lg.xiaomi.com
-0.0.0.0 www.fe05.lg.xiaomi.com
-0.0.0.0 www.file.market.xiaomi.com
-0.0.0.0 www.file.xmpush.xiaomi.com
-0.0.0.0 www.fr.app.chat.global.xiaomi.net
-0.0.0.0 www.gallery.cdn.pandora.xiaomi.com
-0.0.0.0 www.gallery.p2p.pandora.xiaomi.com
-0.0.0.0 www.gallery.pandora.xiaomi.com
-0.0.0.0 www.geofence.sys.miui.com
-0.0.0.0 www.global.search.xiaomi.net
-0.0.0.0 www.globalapi.ad.xiaomi.com
-0.0.0.0 www.gvod.aiseejapp.atianqi.com
-0.0.0.0 www.hd.xiaomi.com
-0.0.0.0 www.hd02.lg.xiaomi.com
-0.0.0.0 www.heyue.xiaomi.com
-0.0.0.0 www.hk.mibi.xiaomi.com
-0.0.0.0 www.hm.xiaomi.com
-0.0.0.0 www.huangye.miui.com
-0.0.0.0 www.huodong.xiaomi.com
-0.0.0.0 www.huosai.xiaomi.com
-0.0.0.0 www.i.xiaomi.com
-0.0.0.0 www.igame.xiaomi.com
-0.0.0.0 www.image.box.xiaomi.com
-0.0.0.0 www.image.cdn.mvideo.xiaomi.com
-0.0.0.0 www.image.cdn.pandora.xiaomi.com
-0.0.0.0 www.image.pandora.xiaomi.com
-0.0.0.0 www.ime.api.xiaomi.com
-0.0.0.0 www.imgg.traffic-media.co
-0.0.0.0 www.imgg.traffic-media.coiosdl.game.xiaomi.com
-0.0.0.0 www.info.analysis.kp.sec.miui.com
-0.0.0.0 www.info.sec.miui.com
-0.0.0.0 www.iosdl.game.xiaomi.com
-0.0.0.0 www.jellyfish.pandora.xiaomi.com
-0.0.0.0 www.lbs.pandora.xiaomi.com
-0.0.0.0 www.lg-bgp.pandora.xiaomi.com
-0.0.0.0 www.logonext.tv.kuyun.com
-0.0.0.0 www.logupdate.avlyun.sec.miui.com
-0.0.0.0 www.m.bss.pandora.xiaomi.com
-0.0.0.0 www.mazu.sec.miui.com
-0.0.0.0 www.mcc.intl.inf.miui.com
-0.0.0.0 www.meihua.xiaomi.com
-0.0.0.0 www.metok.sys.miui.com
-0.0.0.0 www.metok-ccc.intl.xiaomi.com
-0.0.0.0 www.mibi.api.xiaomi.com
-0.0.0.0 www.mibi.xiaomi.com
-0.0.0.0 www.milink.pandora.xiaomi.com
-0.0.0.0 www.misc.pandora.xiaomi.com
-0.0.0.0 www.mishop.cdn.pandora.xiaomi.com
-0.0.0.0 www.mishop.pandora.xiaomi.com
-0.0.0.0 www.mitunes.game.xiaomi.com
-0.0.0.0 www.mlog.search.xiaomi.net
-0.0.0.0 www.mp.huangye.miui.com
-0.0.0.0 www.new.api.ad.xiaomi.com
-0.0.0.0 www.notice.game.xiaomi.com
-0.0.0.0 www.o2o.api.xiaomi.com
-0.0.0.0 www.order.music.xiaomi.com
-0.0.0.0 www.ota.cdn.pandora.xiaomi.com
-0.0.0.0 www.package.cdn.pandora.xiaomi.com
-0.0.0.0 www.pandora.mi.com
-0.0.0.0 www.pmall.migc.xiaomi.com
-0.0.0.0 www.ppurifier.game.xiaomi.com
-0.0.0.0 www.ptmi.gitv.pandora.xiaomi.com
-0.0.0.0 www.qiye.xiaomi.com
-0.0.0.0 www.r.browser.miui.com
-0.0.0.0 www.r.sg.sec.miui.com
-0.0.0.0 www.reader.browser.miui.com
-0.0.0.0 www.register.xmpush.xiaomi.com
-0.0.0.0 www.resolver.msg.global.xiaomi.net
-0.0.0.0 www.resolver.msg.xiaomi.net
-0.0.0.0 www.ru.o2o.api.xiaomi.com
-0.0.0.0 www.sandbox.xmpush.xiaomi.com
-0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 www.sdkconfig.ad.xiaomi.com
-0.0.0.0 www.sec.resource.xiaomi.net
-0.0.0.0 www.sec-cdn.static.xiaomi.net
-0.0.0.0 www.secode2.hd.xiaomi.com
-0.0.0.0 www.sgpac.account.xiaomi.com
-0.0.0.0 www.shenghuo.xiaomi.com
-0.0.0.0 www.shoes.app-xae.xiaomi.com
-0.0.0.0 www.solve.msg.xiaomi.net
-0.0.0.0 www.ssp.ad.xiaomi.com
-0.0.0.0 www.staging.ai.api.xiaomi.com
-0.0.0.0 www.starfish.pandora.xiaomi.com
-0.0.0.0 www.stat.pandora.xiaomi.com
-0.0.0.0 www.stat.xiaomi.com
-0.0.0.0 www.static.game.xiaomi.com
-0.0.0.0 www.static.mibi.xiaomi.com
-0.0.0.0 www.storeconfig.mistat.intl.xiaomi.com
-0.0.0.0 www.t1.g.mi.com
-0.0.0.0 www.tc.hd.xiaomi.com
-0.0.0.0 www.tel.fe01.hh.xiaomi.com
-0.0.0.0 www.test.ad.xiaomi.com
-0.0.0.0 www.test.e.ad.xiaomi.com
-0.0.0.0 www.test.new.api.ad.xiaomi.com
-0.0.0.0 www.tracking.intl.miui.com
-0.0.0.0 www.tracking.miui.com
-0.0.0.0 www.trial.api.huangye.miui.com
-0.0.0.0 www.tv.app.migc.xiaomi.com
-0.0.0.0 www.upgrade.mishop.pandora.xiaomi.com
-0.0.0.0 www.voip.game.xiaomi.com
-0.0.0.0 www.wallpaper.cdn.pandora.xiaomi.com
-0.0.0.0 www.wallpaper.pandora.xiaomi.com
-0.0.0.0 www.wap.game.xiaomi.com
-0.0.0.0 www.xiazai.xiaomi.com
-0.0.0.0 www.xitong.xiaomi.com
-0.0.0.0 www.xlmc.sec.miui.com
-0.0.0.0 www.xshare.api.xiaomi.com
-0.0.0.0 www.zeus.ad.intl.xiaomi.com
-0.0.0.0 www.zx.game.xiaomi.com
-0.0.0.0 xiazai.xiaomi.com
-0.0.0.0 xitong.xiaomi.com
-0.0.0.0 xlmc.sec.miui.com
-0.0.0.0 xshare.api.xiaomi.com
-0.0.0.0 zeus.ad.intl.xiaomi.com
-0.0.0.0 zx.game.xiaomi.com
+sa.api.intl.miui.com
+a.netcheck.gallery.pandora.xiaomi.com
+a.stat.xiaomi.com
+abtest.mistat.intl.xiaomi.com
+abtest.mistat.xiaomi.com
+activity.browser.intl.miui.com
+ad.mi.com
+ad.xiaomi.com
+ad1.xiaomi.com
+adinfo.ra1.xlmc.sec.miui.com
+adv.sec.intl.miui.com
+adv.sec.miui.com
+advertisement.moguv.com
+api.ad.intl.xiaomi.com
+api.ad.xiaomi.com
+api.admob.xiaomi.com
+api.brs.intl.miui.com
+api.chat.xiaomi.net
+api.collect.data.intl.miui.com
+api.comm.miui.com
+api.cupid.ptqy.gitv.tv
+api.d.xiaomi.com
+api.hybrid.intl.xiaomi.com
+api.io.mi.com
+api.miui.security.xiaomi.com
+api.newsfeed.intl.miui.com
+api.ra2.xlmc.sec.miui.com
+api.sec.intl.miui.com
+api.sec.miui.com
+api.setting.intl.miui.com
+api.tw06.xlmc.sec.miui.com
+api.xmpush.xiaomi.com
+app.chat.xiaomi.net
+app.migc.xiaomi.com
+app01.nodes.gslb.mi-idc.com
+app02.nodes.gslb.mi-idc.com
+appstore.cdn.pandora.xiaomi.com
+appstore.pandora.xiaomi.com
+assistant.pandora.xiaomi.com
+auth.be.sec.miui.com
+authbe.sec.intl.miui.com
+awsusor0-cdn.fds-ssl.api.xiaomi.com
+b.netcheck.gallery.pandora.xiaomi.com
+bbs.game.xiaomi.com
+be01.hh.xiaomi.com
+bgp.fe01.c3.xiaomi.com
+bk01.hh.xiaomi.com
+broker.mqtt.pandora.xiaomi.com
+bss.pandora.xiaomi.com
+calopenupdate.comm.miui.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+ccc.sys.miui.com
+cdn.ad.xiaomi.com
+cdn.fds-ssl.api.xiaomi.com
+clock.ad.xiaomi.com
+cnc.fe01.lg.xiaomi.com
+config.kuyun.com
+ctc.fe01.c3.xiaomi.com
+ctc.fe02.c3.xiaomi.com
+d.xiaomi.com
+data.game.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.xiaomi.com
+data.sec.miui.com
+de.pandora.xiaomi.com
+dvb.pandora.xiaomi.com
+e.ad.xiaomi.com
+f1.g.mi.com
+fcanr.tracking.miui.com
+fe02.lg.xiaomi.com
+fe05.lg.xiaomi.com
+file.market.xiaomi.com
+file.xmpush.xiaomi.com
+fr.app.chat.global.xiaomi.net
+gallery.cdn.pandora.xiaomi.com
+gallery.p2p.pandora.xiaomi.com
+gallery.pandora.xiaomi.com
+geofence.sys.miui.com
+global.search.xiaomi.net
+globalapi.ad.xiaomi.com
+gvod.aiseejapp.atianqi.com
+hd.xiaomi.com
+hd02.lg.xiaomi.com
+heyue.xiaomi.com
+hk.mibi.xiaomi.com
+hm.xiaomi.com
+huangye.miui.com
+huodong.xiaomi.com
+huosai.xiaomi.com
+i.xiaomi.com
+igame.xiaomi.com
+image.box.xiaomi.com
+image.cdn.mvideo.xiaomi.com
+image.cdn.pandora.xiaomi.com
+image.pandora.xiaomi.com
+ime.api.xiaomi.com
+imgg.traffic-media.co
+imgg.traffic-media.coiosdl.game.xiaomi.com
+info.analysis.kp.sec.miui.com
+info.sec.miui.com
+iosdl.game.xiaomi.com
+jellyfish.pandora.xiaomi.com
+lbs.pandora.xiaomi.com
+lg-bgp.pandora.xiaomi.com
+logonext.tv.kuyun.com
+logupdate.avlyun.sec.miui.com
+m.bss.pandora.xiaomi.com
+mazu.sec.miui.com
+mcc.intl.inf.miui.com
+meihua.xiaomi.com
+metok.sys.miui.com
+metok-ccc.intl.xiaomi.com
+mibi.api.xiaomi.com
+mibi.xiaomi.com
+milink.pandora.xiaomi.com
+mis.migc.xiaomi.com
+misc.pandora.xiaomi.com
+mishop.cdn.pandora.xiaomi.com
+mishop.pandora.xiaomi.com
+mitunes.game.xiaomi.com
+mlog.search.xiaomi.net
+mp.huangye.miui.com
+new.api.ad.xiaomi.com
+notice.game.xiaomi.com
+o2o.api.xiaomi.com
+order.music.xiaomi.com
+ota.cdn.pandora.xiaomi.com
+package.cdn.pandora.xiaomi.com
+pandora.mi.com
+pmall.migc.xiaomi.com
+ppurifier.game.xiaomi.com
+ptmi.gitv.pandora.xiaomi.com
+qiye.xiaomi.com
+r.browser.miui.com
+r.sg.sec.miui.com
+reader.browser.miui.com
+register.xmpush.xiaomi.com
+resolver.msg.global.xiaomi.net
+resolver.msg.xiaomi.net
+ru.o2o.api.xiaomi.com
+sandbox.xmpush.xiaomi.com
+scraper.pandora.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sec.resource.xiaomi.net
+sec-cdn.static.xiaomi.net
+secode2.hd.xiaomi.com
+sgpac.account.xiaomi.com
+shenghuo.xiaomi.com
+shoes.app-xae.xiaomi.com
+solve.msg.xiaomi.net
+ssp.ad.xiaomi.com
+staging.ai.api.xiaomi.com
+starfish.pandora.xiaomi.com
+stat.pandora.xiaomi.com
+stat.xiaomi.com
+static.game.xiaomi.com
+static.mibi.xiaomi.com
+storeconfig.mistat.intl.xiaomi.com
+t1.g.mi.com
+tc.hd.xiaomi.com
+tel.fe01.hh.xiaomi.com
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+tracking.intl.miui.com
+tracking.miui.com
+trial.api.huangye.miui.com
+tv.app.migc.xiaomi.com
+upgrade.mishop.pandora.xiaomi.com
+voip.game.xiaomi.com
+wallpaper.cdn.pandora.xiaomi.com
+wallpaper.pandora.xiaomi.com
+wap.game.xiaomi.com
+www.a.netcheck.gallery.pandora.xiaomi.com
+www.a.stat.xiaomi.com
+www.abtest.mistat.intl.xiaomi.com
+www.abtest.mistat.xiaomi.com
+www.activity.browser.intl.miui.com
+www.ad.mi.com
+www.ad.xiaomi.com
+www.ad1.xiaomi.com
+www.adinfo.ra1.xlmc.sec.miui.com
+www.adv.sec.intl.miui.com
+www.adv.sec.miui.com
+www.advertisement.moguv.com
+www.api.ad.intl.xiaomi.com
+www.api.ad.xiaomi.com
+www.api.admob.xiaomi.com
+www.api.brs.intl.miui.com
+www.api.chat.xiaomi.net
+www.api.collect.data.intl.miui.com
+www.api.comm.miui.com
+www.api.cupid.ptqy.gitv.tv
+www.api.d.xiaomi.com
+www.api.hybrid.intl.xiaomi.com
+www.api.io.mi.com
+www.api.miui.security.xiaomi.com
+www.api.newsfeed.intl.miui.com
+www.api.ra2.xlmc.sec.miui.com
+www.api.sec.intl.miui.com
+www.api.sec.miui.com
+www.api.setting.intl.miui.com
+www.api.tw06.xlmc.sec.miui.com
+www.api.xmpush.xiaomi.com
+www.app.chat.xiaomi.net
+www.app.migc.xiaomi.com
+www.app01.nodes.gslb.mi-idc.com
+www.app02.nodes.gslb.mi-idc.com
+www.appstore.cdn.pandora.xiaomi.com
+www.appstore.pandora.xiaomi.com
+www.assistant.pandora.xiaomi.com
+www.auth.be.sec.miui.com
+www.authbe.sec.intl.miui.com
+www.awsusor0-cdn.fds-ssl.api.xiaomi.com
+www.b.netcheck.gallery.pandora.xiaomi.com
+www.bbs.game.xiaomi.com
+www.be01.hh.xiaomi.com
+www.bgp.fe01.c3.xiaomi.com
+www.bk01.hh.xiaomi.com
+www.broker.mqtt.pandora.xiaomi.com
+www.bss.pandora.xiaomi.com
+www.calopenupdate.comm.miui.com
+www.cc.sys.intl.xiaomi.com
+www.cc.sys.miui.com
+www.ccc.sys.intl.xiaomi.com
+www.ccc.sys.miui.com
+www.cdn.ad.xiaomi.com
+www.cdn.fds-ssl.api.xiaomi.com
+www.clock.ad.xiaomi.com
+www.cnc.fe01.lg.xiaomi.com
+www.config.kuyun.com
+www.ctc.fe01.c3.xiaomi.com
+www.ctc.fe02.c3.xiaomi.com
+www.d.xiaomi.com
+www.data.game.xiaomi.com
+www.data.mistat.intl.xiaomi.com
+www.data.mistat.xiaomi.com
+www.data.sec.miui.com
+www.de.pandora.xiaomi.com
+www.dvb.pandora.xiaomi.com
+www.e.ad.xiaomi.com
+www.f1.g.mi.com
+www.fcanr.tracking.miui.com
+www.fe02.lg.xiaomi.com
+www.fe05.lg.xiaomi.com
+www.file.market.xiaomi.com
+www.file.xmpush.xiaomi.com
+www.fr.app.chat.global.xiaomi.net
+www.gallery.cdn.pandora.xiaomi.com
+www.gallery.p2p.pandora.xiaomi.com
+www.gallery.pandora.xiaomi.com
+www.geofence.sys.miui.com
+www.global.search.xiaomi.net
+www.globalapi.ad.xiaomi.com
+www.gvod.aiseejapp.atianqi.com
+www.hd.xiaomi.com
+www.hd02.lg.xiaomi.com
+www.heyue.xiaomi.com
+www.hk.mibi.xiaomi.com
+www.hm.xiaomi.com
+www.huangye.miui.com
+www.huodong.xiaomi.com
+www.huosai.xiaomi.com
+www.i.xiaomi.com
+www.igame.xiaomi.com
+www.image.box.xiaomi.com
+www.image.cdn.mvideo.xiaomi.com
+www.image.cdn.pandora.xiaomi.com
+www.image.pandora.xiaomi.com
+www.ime.api.xiaomi.com
+www.imgg.traffic-media.co
+www.imgg.traffic-media.coiosdl.game.xiaomi.com
+www.info.analysis.kp.sec.miui.com
+www.info.sec.miui.com
+www.iosdl.game.xiaomi.com
+www.jellyfish.pandora.xiaomi.com
+www.lbs.pandora.xiaomi.com
+www.lg-bgp.pandora.xiaomi.com
+www.logonext.tv.kuyun.com
+www.logupdate.avlyun.sec.miui.com
+www.m.bss.pandora.xiaomi.com
+www.mazu.sec.miui.com
+www.mcc.intl.inf.miui.com
+www.meihua.xiaomi.com
+www.metok.sys.miui.com
+www.metok-ccc.intl.xiaomi.com
+www.mibi.api.xiaomi.com
+www.mibi.xiaomi.com
+www.milink.pandora.xiaomi.com
+www.misc.pandora.xiaomi.com
+www.mishop.cdn.pandora.xiaomi.com
+www.mishop.pandora.xiaomi.com
+www.mitunes.game.xiaomi.com
+www.mlog.search.xiaomi.net
+www.mp.huangye.miui.com
+www.new.api.ad.xiaomi.com
+www.notice.game.xiaomi.com
+www.o2o.api.xiaomi.com
+www.order.music.xiaomi.com
+www.ota.cdn.pandora.xiaomi.com
+www.package.cdn.pandora.xiaomi.com
+www.pandora.mi.com
+www.pmall.migc.xiaomi.com
+www.ppurifier.game.xiaomi.com
+www.ptmi.gitv.pandora.xiaomi.com
+www.qiye.xiaomi.com
+www.r.browser.miui.com
+www.r.sg.sec.miui.com
+www.reader.browser.miui.com
+www.register.xmpush.xiaomi.com
+www.resolver.msg.global.xiaomi.net
+www.resolver.msg.xiaomi.net
+www.ru.o2o.api.xiaomi.com
+www.sandbox.xmpush.xiaomi.com
+www.sdkconfig.ad.intl.xiaomi.com
+www.sdkconfig.ad.xiaomi.com
+www.sec.resource.xiaomi.net
+www.sec-cdn.static.xiaomi.net
+www.secode2.hd.xiaomi.com
+www.sgpac.account.xiaomi.com
+www.shenghuo.xiaomi.com
+www.shoes.app-xae.xiaomi.com
+www.solve.msg.xiaomi.net
+www.ssp.ad.xiaomi.com
+www.staging.ai.api.xiaomi.com
+www.starfish.pandora.xiaomi.com
+www.stat.pandora.xiaomi.com
+www.stat.xiaomi.com
+www.static.game.xiaomi.com
+www.static.mibi.xiaomi.com
+www.storeconfig.mistat.intl.xiaomi.com
+www.t1.g.mi.com
+www.tc.hd.xiaomi.com
+www.tel.fe01.hh.xiaomi.com
+www.test.ad.xiaomi.com
+www.test.e.ad.xiaomi.com
+www.test.new.api.ad.xiaomi.com
+www.tracking.intl.miui.com
+www.tracking.miui.com
+www.trial.api.huangye.miui.com
+www.tv.app.migc.xiaomi.com
+www.upgrade.mishop.pandora.xiaomi.com
+www.voip.game.xiaomi.com
+www.wallpaper.cdn.pandora.xiaomi.com
+www.wallpaper.pandora.xiaomi.com
+www.wap.game.xiaomi.com
+www.xiazai.xiaomi.com
+www.xitong.xiaomi.com
+www.xlmc.sec.miui.com
+www.xshare.api.xiaomi.com
+www.zeus.ad.intl.xiaomi.com
+www.zx.game.xiaomi.com
+xiazai.xiaomi.com
+xitong.xiaomi.com
+xlmc.sec.miui.com
+xshare.api.xiaomi.com
+zeus.ad.intl.xiaomi.com
+zx.game.xiaomi.com
