@@ -82,8 +82,8 @@ def main() -> int:
         print(f"Running generator: {gen}")
         with open(f"output/{gen}", "w") as f:
             f.write(f'''#{now}
-            # {list_}
-            '''+generator_list[gen](entries))
+# {list_}
+'''+generator_list[gen](entries))
 
 
 if __name__ == "__main__":
