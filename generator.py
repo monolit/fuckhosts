@@ -24,7 +24,7 @@ def sorter(domains:list[str], mode):
             l.append([i.split(t[0])[0], t[-1]])
         else:pass
     l = sorted(l, key = lambda x: x[::-1])
-    
+
     for i in l:
         domain = i[-1]
         if domain not in already:
