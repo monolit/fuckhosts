@@ -16,7 +16,7 @@ def generateAdblockList(block_list: list):
 def sorter(domains:list[str], mode):
     '''gets list of domains and returns sorted by domain in alphabetical order'''    
     already = l = []
-    entries = f'\n'#{time}'
+    entries = '\n'#{time}'
 
     for i in domains:
         if t := re.findall(r'\w+\.\w+$', i):
