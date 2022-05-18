@@ -6,7 +6,7 @@ from datetime import datetime as date
 
 
 now=date.now().strftime("%Y-%m-%d %H:%M:%S")
-from . import mod
+import mod
 
 def generateIPV4Hosts(block_list: list):
     return mod.main(block_list, 'hosts')
