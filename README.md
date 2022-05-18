@@ -1,19 +1,23 @@
 # hosts
-https://monolit.github.io/fuckhosts/output/hosts.txt
+### wot.txt + melcosoft.txt + rom.txt + tikkok.txt
+- classic hosts file: https://monolit.github.io/fuckhosts/output/hosts.txt
 
-https://monolit.github.io/fuckhosts/output/adblok.txt
+- dangerous filter rules for adblockers: https://monolit.github.io/fuckhosts/output/adblok.txt
 
-**``useful:``**
+- sorted urls list https://monolit.github.io/fuckhosts/output/whole.txt
 
-https://github.com/gorhill/uBlock
 
-https://github.com/AdAway/AdAway
+## **``useful:``**
 
-https://github.com/bogachenko/fuckfuckadblock
+- https://github.com/gorhill/uBlock
 
-https://forums.lanik.us/viewforum.php?f=102
+- https://github.com/AdAway/AdAway
 
-https://github.com/abp-filters/abp-filters-anti-cv
+- https://github.com/bogachenko/fuckfuckadblock
+
+- https://forums.lanik.us/viewforum.php?f=102
+
+- https://github.com/abp-filters/abp-filters-anti-cv
 
 
 
