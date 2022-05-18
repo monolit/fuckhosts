@@ -8,12 +8,12 @@ import re
 now=date.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def generateIPV4Hosts(block_list: list):
-    return main(block_list, 'hosts')
+    return sorter(block_list, 'hosts')
 
 def generateAdblockList(block_list: list):
-    return main(block_list, 'adblock')
+    return sorter(block_list, 'adblock')
 
-def main(domains:list[str], mode):
+def sorter(domains:list[str], mode):
     '''gets list of domains and returns sorted by domain in alphabetical order'''    
     already = l = []
     entries = f'\n'#{time}'
@@ -38,8 +38,6 @@ def main(domains:list[str], mode):
 
             elif mode=='adblock':
                 entries += f'\n# {domain}\n' +'\n'.join(['||{}^'.format(entry) for entry in [''.join(j) for j in so_]]) +'\n'
-            else:
-                assert False
 
             already.append(domain)
     return entries
@@ -51,17 +49,17 @@ generator_list: dict = {
     "adblok.txt": generateAdblockList
 }
 file_list=[
-	"wot.txt",
-	"melcosoft.txt",
-	"rom.txt",
-	"tikkok.txt"
+    "wot.txt",
+    "melcosoft.txt",
+    "rom.txt",
+    "tikkok.txt"
 ]
 
 def main() -> int:
     # Load the block list to a newline-seperated list
     entries = []
     for i in file_list:
-    	with open(i, "r") as f:
+        with open(i, "r") as f:
             rr=f.read().split("\n")
             [entries.append(i) for i in rr]
 
