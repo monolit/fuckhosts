@@ -3,18 +3,51 @@
 from typing import *
 import os
 from datetime import datetime as date
-
+import re
 
 now=date.now().strftime("%Y-%m-%d %H:%M:%S")
-from . import mod
 
 def generateIPV4Hosts(block_list: list):
-    return mod.main(block_list, 'hosts')
+    return main(block_list, 'hosts')
 
 def generateAdblockList(block_list: list):
-    return mod.main(block_list, 'adblock')
+    return main(block_list, 'adblock')
 
+def main(domains:list[str], mode):
+    '''gets list of domains and returns sorted by domain in alphabetical order'''    
+    already = l = []
+    entries = f'\n'#{time}'
 
+    for i in domains:
+        if t := re.findall(r'\w+\.\w+$', i):
+            print(i)
+            l.append([i.split(t[0])[0], t[-1]])
+        else:pass
+    l = sorted(l, key = lambda x: x[::-1])
+    
+    for i in l:
+        domain = i[-1]
+        if domain not in already:
+            ae=[j if j[-1] == domain else None for j in l]
+            ae=list(filter(None, ae))
+
+            so_ = sorted(ae, key = lambda x: x[::-1])
+
+            if mode=='hosts':
+                entries += f'\n# {domain}\n' + '\n'.join('0.0.0.0 {}'.format(entry) for entry in [''.join(j) for j in so_])+'\n'
+
+            elif mode=='adblock':
+                entries += \
+                    f'\n# {domain}\n' \
+                    +'\n'.join(['||{}^'.format(entry) for entry in [''.join(j) for j in so_]]) \
+                    +'\n'
+            else:
+                assert False
+
+            already.append(domain)
+    return entries
+
+    
 # All generators
 generator_list: dict = {
     "hosts.txt": generateIPV4Hosts,
