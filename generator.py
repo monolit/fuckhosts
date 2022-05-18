@@ -9,10 +9,10 @@ now=date.now().strftime("%Y-%m-%d %H:%M:%S")
 from . import mod
 
 def generateIPV4Hosts(block_list: list):
-    return mod.main(now, block_list, 'hosts')
+    return mod.main(block_list, 'hosts')
 
 def generateAdblockList(block_list: list):
-    return mod.main(now, block_list, 'adblock')
+    return mod.main(block_list, 'adblock')
 
 
 # All generators
@@ -45,7 +45,7 @@ def main() -> int:
     for gen in generator_list:
         print(f"Running generator: {gen}")
         with open(f"output/{gen}", "w") as f:
-            f.write(f"#{now}\n"+"\n".join(generator_list[gen](entries)))
+            f.write(f"#{now}\n"+generator_list[gen](entries))
 
 
 if __name__ == "__main__":

@@ -1,8 +1,8 @@
 import re
-def main(time:str, domains:list[str], mode):
+def main(domains:list[str], mode):
     '''gets list of domains and returns sorted by domain in alphabetical order'''    
     already = l = []
-    entries = f'# {time}'
+    entries = f'\n'#{time}'
 
     for i in domains:
         if t := re.findall(r'\w+\.\w+$', i):
