@@ -42,5 +42,5 @@ jobs:
       if: success()
 # ${{ always() && github.ref == 'refs/heads/main' }}
       with:
-        add: data
+        add: output
         message: Commit
