@@ -1,26 +1,29 @@
 # hosts
 ### wot.txt + melcosoft.txt + rom.txt + tikkok.txt
-- classic hosts file: https://monolit.github.io/fuckhosts/output/hosts.txt
+- classic hosts file: <a href='https://monolit.github.io/fuckhosts/output/hosts.txt'>hosts.txt</a>
 
-- dangerous filter rules for adblockers: https://monolit.github.io/fuckhosts/output/adblok.txt
+- dangerous filter rules for adblockers: <a href='https://monolit.github.io/fuckhosts/output/adblok.txt'>adblok.txt</a>
 
-- sorted urls list https://monolit.github.io/fuckhosts/output/whole.txt
+- sorted urls list <a href='https://monolit.github.io/fuckhosts/output/whole.txt'>whole.txt</a>
 
+<br>
 
-## **``useful:``**
+## ``useful links:``
 
-- https://github.com/gorhill/uBlock
+- <a href='https://github.com/gorhill/uBlock'>uBlock</a>
 
-- https://github.com/AdAway/AdAway
+- <a href='https://github.com/AdAway/AdAway'>AdAway</a>
 
-- https://github.com/bogachenko/fuckfuckadblock
+- <a href='https://github.com/bogachenko/fuckfuckadblock'>fuckfuckadblock</a>
 
-- https://forums.lanik.us/viewforum.php?f=102
+- <a href='https://forums.lanik.us/viewforum.php?f=102'>RuAdList discussion</a>
 
-- https://github.com/abp-filters/abp-filters-anti-cv
+- <a href='https://github.com/abp-filters/abp-filters-anti-cv'>abp-filters-anti-cv</a>
 
-
+<br>
 
 <p align="center">
   <img src="images/aie.gif"/><br>
 </p>
+
+<br>
