@@ -35,3 +35,11 @@ jobs:
         build_dir: output
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    # https://github.com/marketplace/actions/add-commit
+    - name: Commit
+    uses: EndBug/add-and-commit@v9.0.0
+      if: ${{ always() && github.ref == 'refs/heads/main' }}
+      with:
+        add: data
+        message: Commit
