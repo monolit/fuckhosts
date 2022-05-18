@@ -38,7 +38,7 @@ jobs:
 
     # https://github.com/marketplace/actions/add-commit
     - name: Commit
-    uses: EndBug/add-and-commit@v9.0.0
+      uses: EndBug/add-and-commit@v9.0.0
       if: success()
 # ${{ always() && github.ref == 'refs/heads/main' }}
       with:
