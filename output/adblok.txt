@@ -1,4 +1,4 @@
-#2022-05-18 20:26:27
+#2022-05-25 04:58:00
 # wot.txt + melcosoft.txt + rom.txt + tikkok.txt
 
 
@@ -459,7 +459,6 @@
 ||viicoat.com^
 ||viqeo.tv^
 ||vk.cc^
-||vk.com^
 ||vlitag.com^
 ||wait.re^
 ||weborama.fr^

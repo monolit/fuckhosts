@@ -1,4 +1,4 @@
-#2022-05-18 20:26:27
+#2022-05-25 04:58:00
 # wot.txt + melcosoft.txt + rom.txt + tikkok.txt
 
 
@@ -1858,9 +1858,6 @@ stats.viqeo.tv
 # vk.cc
 vk.cc
 
-# vk.com
-vk.com
-
 # vlitag.com
 services.vlitag.com
 
@@ -2210,7 +2207,6 @@ dr2.yandex.net
 egress.yandex.net
 extmaps-api.yandex.net
 report.appmetrica.yandex.net
-resize.yandex.net
 rosenberg.appmetrica.yandex.net
 sba.yandex.net
 site.yandex.net
