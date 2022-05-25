@@ -284,7 +284,6 @@ mads.amazon.adsystem.com
 aax.us.east.amazon.adsystem.com
 mapi.speedtest.net
 api.amplitude.com
-resize.yandex.net
 traffic.outbrain.com
 log.outbrainimg.com
 c.disquscdn.com
@@ -452,7 +451,6 @@ connect.facebook.net
 sessions.bugsnag.com
 bitrix.info
 stat.sputnik.ru
-vk.com
 wfolio.ru
 d.pixiv.org
 boostingads.com
