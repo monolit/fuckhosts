@@ -27,7 +27,6 @@ f.gdeslon.ru
 firebaselogging-pa.googleapis.com
 g2.wait.re
 gcp-img.slatic.net
-geocode-maps.yandex.ru
 gtly.to
 impressions.onelink.me
 j.cackle.me
