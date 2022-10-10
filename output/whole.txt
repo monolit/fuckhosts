@@ -1,4 +1,4 @@
-#2022-08-16 14:40:06
+#2022-10-10 20:25:55
 # wot.txt + melcosoft.txt + rom.txt + tikkok.txt
 
 
@@ -2226,7 +2226,6 @@ awaps.yandex.ru
 bs.yandex.ru
 calendar.yandex.ru
 games.yandex.ru
-geocode-maps.yandex.ru
 grade.market.yandex.ru
 informer.yandex.ru
 iot.quasar.yandex.ru
