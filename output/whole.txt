@@ -1,4 +1,4 @@
-#2022-10-10 20:25:55
+#2022-10-22 00:16:34
 # wot.txt + melcosoft.txt + rom.txt + tikkok.txt
 
 
@@ -1834,7 +1834,6 @@ vhuryju.mobi
 # viber.com
 explore.api.viber.com
 locp.de.viber.com
-market.viber.com
 
 # videonow.ru
 static.videonow.ru
