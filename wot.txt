@@ -394,7 +394,6 @@ edugramlink.net
 beacons.gvt2.com
 explore.api.viber.com
 locp.de.viber.com
-market.viber.com
 www.re.store.ru
 sharing.config.spotifycdn.com
 fam.8.net
