@@ -1,9 +1,12 @@
-#2022-10-22 00:16:34
+#2022-10-27 11:16:40
 # wot.txt + melcosoft.txt + rom.txt + tikkok.txt
 
 
 # 1e100.net
 1e100.net
+
+# 2020mustang.com
+as.2020mustang.com
 
 # 24smi.net
 data.24smi.net
@@ -20,6 +23,13 @@ news.2xclick.ru
 
 # 3dnews.ru
 ad.3dnews.ru
+
+# 3lift.com
+eb2.3lift.com
+ib.3lift.com
+
+# 4251.tech
+4251.tech
 
 # 6sense.com
 epsilon.6sense.com
@@ -49,6 +59,8 @@ adfokus.ru
 
 # adform.net
 adx.adform.net
+cm.adform.net
+track.adform.net
 
 # adfox.ru
 ads.adfox.ru
@@ -75,6 +87,9 @@ www.adjust.com
 # adjust.world
 app.adjust.world
 
+# adktrack.com
+adktrack.com
+
 # adlightning.com
 tagan.adlightning.com
 
@@ -89,11 +104,17 @@ acdn.adnxs.com
 ib.adnxs.com
 secure.adnxs.com
 
+# adpool.bet
+z.cdn.adpool.bet
+
 # adpushup.com
 e3.adpushup.com
 
 # adquality.ch
 mt.adquality.ch
+
+# adrecover.com
+delivery.adrecover.com
 
 # adriver.ru
 ad.adriver.ru
@@ -105,6 +126,9 @@ cdn.adsafeprotected.com
 
 # adservice.io
 adservice.io
+
+# adsmoloco.com
+cdn-f.adsmoloco.com
 
 # adspire.io
 adware.adspire.io
@@ -130,6 +154,9 @@ s10.adtidy.org
 
 # adtng.com
 a.adtng.com
+ht-cdn2.adtng.com
+hw-cdn2.adtng.com
+vz-cdn2.adtng.com
 
 # adv.ru
 otclick-adv.ru
@@ -147,8 +174,19 @@ advertur.ru
 # adwile.com
 adwile.com
 
+# adxpremium.services
+rtb.adxpremium.services
+
+# afp.ai
+cdn.afp.ai
+ssp.afp.ai
+
 # aidata.io
 x01.aidata.io
+
+# aio.media
+api.aio.media
+static.aio.media
 
 # akamaihd.net
 qsearch-a.akamaihd.net
@@ -157,9 +195,22 @@ qsearch.a.akamaihd.net
 # akamaized.net
 img.s.msn.com.akamaized.net
 
+# aliapp.org
+us.ynuf.aliapp.org
+
+# alibabausercontent.com
+zconfig.alibabausercontent.com
+
 # alicdn.com
 ae-cn.alicdn.com
+dtmall-tel.alicdn.com
 wvcfg.alicdn.com
+
+# aliexpress.com
+amdc.aliexpress.com
+
+# alipay.com
+iclientgw.alipay.com
 
 # amazon.com
 aan.amazon.com
@@ -171,6 +222,7 @@ trendmd.s3.amazonaws.com
 
 # amplitude.com
 api.amplitude.com
+api2.amplitude.com
 cdn.amplitude.com
 
 # ampproject.org
@@ -222,6 +274,7 @@ res1.applovin.com
 rt.applovin.com
 
 # applvn.com
+a.applvn.com
 d.applvn.com
 ms.applvn.com
 rt.applvn.com
@@ -257,6 +310,12 @@ www.atdmt.com
 gvod.aiseejapp.atianqi.com
 www.gvod.aiseejapp.atianqi.com
 
+# atsptp.com
+atlas.atsptp.com
+
+# aufderhar.biz
+v.aufderhar.biz
+
 # autopay.com
 annamalkovavideo.e.autopay.com
 
@@ -274,6 +333,9 @@ i.bcprm.com
 
 # bdwafx.com
 t.bdwafx.com
+
+# beeline.ru
+fcp.beeline.ru
 
 # betweendigital.com
 ads.betweendigital.com
@@ -300,6 +362,9 @@ c.bingapis.com
 
 # bitrix.info
 bitrix.info
+
+# bncloudfl.com
+cdn.bncloudfl.com
 
 # bngpt.com
 db.bngpt.com
@@ -340,6 +405,9 @@ api.bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
 
+# bumlam.com
+sync.bumlam.com
+
 # buzzoola.com
 exchange.buzzoola.com
 tube.buzzoola.com
@@ -352,6 +420,7 @@ verification-va.byteoversea.com
 bzrpvk.ru
 
 # cackle.me
+cackle.me
 j.cackle.me
 
 # carbonads.net
@@ -399,6 +468,11 @@ static.chartbeat.com
 # chartbeat.net
 ping.chartbeat.net
 
+# chartboost.com
+a2.chartboost.com
+live.chartboost.com
+ssp-events.chartboost.com
+
 # chaturbate.com
 chaturbate.com
 m.chaturbate.com
@@ -432,6 +506,10 @@ xeroxnow.cnews.ru
 # co.jp
 zucks.co.jp
 
+# com.ru
+adx.com.ru
+rtb.com.ru
+
 # con.com
 rec.con.com
 
@@ -442,11 +520,23 @@ cds.connatix.com
 img.connatix.com
 vid.connatix.com
 
+# connectad.io
+i.connectad.io
+
 # consensu.org
 quantcast.mgr.consensu.org
 
+# const.uno
+const.uno
+
 # contenta.com
 dsp.e.contenta.com
+
+# contentabc.com
+ads2.contentabc.com
+cdn11.contentabc.com
+hw-cdn2.contentabc.com
+vz-cdn2.contentabc.com
 
 # contextweb.com
 lga.bh.bgp.contextweb.com
@@ -458,9 +548,13 @@ cdn.cookielaw.org
 cooolio.biz
 
 # counter.ru
+tns-counter.ru
 tns.counter.ru
 www.tns-counter.ru
 www.tns.counter.ru
+
+# covivado.club
+covivado.club
 
 # craktraffic.com
 craktraffic.com
@@ -492,11 +586,17 @@ t.crlcw.link
 # crsspxl.com
 tag.crsspxl.com
 
+# ctrmanager.com
+show2.ctrmanager.com
+
 # culturaltracking.ru
 culturaltracking.ru
 
 # dadsans.com
 dadsans.com
+
+# dailyinnovation.biz
+matrix.dailyinnovation.biz
 
 # data.net
 bam-cell.nr-data.net
@@ -572,6 +672,10 @@ tag.durationmedia.net
 async.px.eu.dynamicyield.com
 rcom.eu.dynamicyield.com
 
+# dynspt.com
+dynspt.com
+i.dynspt.com
+
 # ecosia.org
 ecosia.org
 
@@ -589,6 +693,9 @@ www.egwolz4g.com
 
 # epicgames.com
 tracking.epicgames.com
+
+# etahub.com
+etahub.com
 
 # ethicalads.io
 server.ethicalads.io
@@ -640,11 +747,20 @@ api.flocktory.com
 # flurry.com
 data.flurry.com
 
+# franecki.net
+franecki.net
+
 # freshmarketer.com
 freshmarketer.com
 
 # gdeslon.ru
 f.gdeslon.ru
+
+# getaim.info
+stats.getaim.info
+
+# getzend.digital
+ws.getzend.digital
 
 # ggpht.com
 lh4.ggpht.com
@@ -689,6 +805,7 @@ clientmetrics.pa.googleapis.com
 crashlyticsreports-pa.googleapis.com
 crashlyticsreports.pa.googleapis.com
 firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
 firebaselogging.pa.googleapis.com
 
 # googlesyndication.com
@@ -722,8 +839,14 @@ beacons4.gvt2.com
 # habr.com
 effect.habr.com
 
+# hczog.com
+hczog.com
+
 # heroku.com
 api.metrics.heroku.com
+
+# hhcdn.com
+hhcdn.com
 
 # hicloud.com
 datacollector-drru.dt.hicloud.com
@@ -749,6 +872,9 @@ vars.hotjar.com
 
 # hoyolab.com
 log-upload-os.hoyolab.com
+
+# hoyoverse.com
+log-upload-os.hoyoverse.com
 
 # hpyjmp.com
 creative.hpyjmp.com
@@ -964,6 +1090,7 @@ pbid.pro-market.net
 munchkin.marketo.net
 
 # measurement.com
+app-measurement.com
 app.measurement.com
 
 # media.co
@@ -1140,6 +1267,7 @@ ae.mmstat.com
 cnzz.mmstat.com
 gj.mmstat.com
 gm.mmstat.com
+ru.mmstat.com
 
 # mobileadexchange.net
 adsmetadata.mobileadexchange.net
@@ -1176,6 +1304,7 @@ stats.mpsuadv.ru
 s.go.mpulse.net
 
 # mradx.net
+m.mradx.net
 r.mradx.net
 
 # msads.net
@@ -1206,8 +1335,20 @@ rmads.eu.msn.com
 # msnbc.com
 analytics.msnbc.com
 
+# mts.ru
+sm.rtb.mts.ru
+tech.rtb.mts.ru
+
+# musical.ly
+api2-16-h2.musical.ly
+api2-19-h2.musical.ly
+
+# mxpnl.com
+cdn.mxpnl.com
+
 # my.com
 ru.tracker-api.my.com
+tracker-api.my.com
 
 # myanimelist.net
 mhwc.myanimelist.net
@@ -1262,6 +1403,7 @@ click.oneplus.com
 open.oneplus.net
 
 # onesignal.com
+api.onesignal.com
 cdn.onesignal.com
 
 # only2date.com
@@ -1327,6 +1469,12 @@ cas.avalon.perfdrive.com
 # perfectmarket.com
 widget.perfectmarket.com
 
+# phncdn.com
+ai.phncdn.com
+cs.phncdn.com
+evtubescms.phncdn.com
+ew.phncdn.com
+
 # picsart.com
 analytics.picsart.com
 
@@ -1360,6 +1508,9 @@ embed.playbuzz.com
 # point.ru
 5.point.ru
 
+# pornhub.com
+hubt.pornhub.com
+
 # portal.net
 stats.vk.portal.net
 
@@ -1384,6 +1535,11 @@ d.pub.network
 pubapp.network
 serve.pubapp.network
 
+# pubmatic.com
+ads.pubmatic.com
+hbopenbid.pubmatic.com
+sshowads.pubmatic.com
+
 # push4site.com
 push4site.com
 
@@ -1403,10 +1559,14 @@ secure.quantserve.com
 # queryly.com
 data.queryly.com
 
+# qvol.ru
+ad.qvol.ru
+
 # r.com
 ad-eu-03.p.otm-r.com
 ssp.otm.r.com
 sync.dmp.otm-r.com
+sync.otm-r.com
 vast-eu.otm-r.com
 
 # radikal.ru
@@ -1426,6 +1586,9 @@ sg01.rayjump.com
 
 # rbc.ru
 r.rbc.ru
+
+# reacivepl.club
+reacivepl.club
 
 # realbig.online
 park.realbig.online
@@ -1461,6 +1624,10 @@ a.republer.com
 # rereddit.com
 rereddit.com
 
+# retailrocket.net
+cdn.retailrocket.net
+tracking.retailrocket.net
+
 # retailrocket.ru
 cdn.retailrocket.ru
 
@@ -1488,6 +1655,9 @@ id.sv.rkdms.com
 api.rlcdn.com
 di.rlcdn.com
 
+# rock.com
+serving.stat-rock.com
+
 # rt.com
 nbc.rt.com
 
@@ -1512,6 +1682,8 @@ api.ruliweb.com
 # rutarget.ru
 cdn.rutarget.ru
 tag.rutarget.ru
+videonow-sync.rutarget.ru
+videotarget-sync.rutarget.ru
 
 # samsung.com
 bigdata.ssp.samsung.com
@@ -1536,6 +1708,9 @@ analytics.samsungknox.com
 # samsungusa.com
 business.samsungusa.com
 
+# sascdn.com
+ced.sascdn.com
+
 # sberbank.ru
 clickstream.online.sberbank.ru
 stories.stat.online.sberbank.ru
@@ -1552,6 +1727,9 @@ sb.scorecardresearch.com
 # scroll.com
 connect.scroll.com
 static.scroll.com
+
+# sectigo.com
+crt.sectigo.com
 
 # segmentstream.com
 cdn.segmentstream.com
@@ -1571,6 +1749,13 @@ start.sentry.io
 status.sentry.io
 www.sentry.io
 
+# servenobid.com
+ads.servenobid.com
+
+# servetraff.com
+servetraff.com
+cdn.servetraff.com
+
 # services.com
 beacon.wikia-services.com
 
@@ -1586,6 +1771,9 @@ analytics.shareaholic.net
 
 # sharethrough.com
 sharethrough.com
+
+# shop.ru
+analytics.dns-shop.ru
 
 # sibnet.ru
 advast.sibnet.ru
@@ -1604,6 +1792,15 @@ gcp-img.slatic.net
 
 # slippersferry.com
 slippersferry.com
+
+# smadex.com
+creatives.smadex.com
+geo-tracker.smadex.com
+
+# smartadserver.com
+eqx.smartadserver.com
+prg.smartadserver.com
+tagmanager.smartadserver.com
 
 # smi.today
 www.smi.today
@@ -1657,6 +1854,9 @@ vid.springserve.com
 # sputnik.ru
 stat.sputnik.ru
 
+# spylees.com
+spylees.com
+
 # spylog.com
 spylog.com
 
@@ -1675,6 +1875,9 @@ f.kinja.static.com
 x.kinja-static.com
 x.kinja.static.com
 
+# statsforads.com
+www.statsforads.com
+
 # store.ru
 www.re.store.ru
 
@@ -1692,6 +1895,7 @@ msn.serving-sys.com
 
 # taboola.com
 am.sync.taboola.com
+cdn.taboola.com
 hk.sync.taboola.com
 sync.taboola.com
 trc-events.taboola.com
@@ -1699,13 +1903,25 @@ trc.taboola.com
 trc.events.taboola.com
 trc0.taboola.com
 
+# takedwn.ws
+test.takedwn.ws
+
 # taobao.com
 acs.m.taobao.com
 audid-api.taobao.com
 cloud.video.taobao.com
 
+# tapjoy.com
+connect.tapjoy.com
+content.tapjoy.com
+placements.tapjoy.com
+ws.tapjoy.com
+
 # target.ru
 tt.target.ru
+
+# teads.tv
+a.teads.tv
 
 # tencent.com
 guid.tpns.tencent.com
@@ -1722,6 +1938,8 @@ analytics.tiktok.com
 
 # tiktokv.com
 gecko-sg.tiktokv.com
+log16-normal-alisg.tiktokv.com
+mssdk-sg.tiktokv.com
 
 # tildacdn.com
 stat.tildacdn.com
@@ -1741,10 +1959,22 @@ cdn.magiclinks.trackonomics.net
 
 # trafficbass.com
 cdn.trafficbass.com
+z.cdn.trafficbass.com
 
 # trafficfactory.biz
 rpc-php.trafficfactory.biz
 rpc.php.trafficfactory.biz
+
+# trafficjunky.com
+media.trafficjunky.com
+static.trafficjunky.com
+
+# trafficjunky.net
+ads.trafficjunky.net
+ctrack.trafficjunky.net
+hw-cdn.trafficjunky.net
+media.trafficjunky.net
+vz-cdn.trafficjunky.net
 
 # trafficmanager.net
 pl.px.trafficmanager.net
@@ -1819,6 +2049,9 @@ reddit.report-uri.com
 # utarget.ru
 utarget.ru
 
+# utraff.com
+a.utraff.com
+
 # vak345.com
 vak345.com
 
@@ -1836,7 +2069,10 @@ explore.api.viber.com
 locp.de.viber.com
 
 # videonow.ru
+rtb.videonow.ru
 static.videonow.ru
+stats2.videonow.ru
+sync.videonow.ru
 
 # videoplayerhub.com
 kinja-com.videoplayerhub.com
@@ -1860,8 +2096,17 @@ vk.cc
 # vlitag.com
 services.vlitag.com
 
+# vungle.com
+ads.api.vungle.com
+api.vungle.com
+events.api.vungle.com
+
 # wait.re
 g2.wait.re
+
+# webformscr.com
+gp.webformscr.com
+web.webformscr.com
 
 # weborama.fr
 cstatic.weborama.fr
@@ -1886,6 +2131,9 @@ wfolio.ru
 
 # whourgie.com
 whourgie.com
+
+# withgoogle.com
+csp.withgoogle.com
 
 # wp.com
 pixel.wp.com
@@ -2180,6 +2428,9 @@ www.sec-cdn.static.xiaomi.net
 www.sec.resource.xiaomi.net
 www.solve.msg.xiaomi.net
 
+# yabidos.com
+pixel.yabidos.com
+
 # yadro.ru
 counter.yadro.ru
 
@@ -2187,7 +2438,9 @@ counter.yadro.ru
 ads.yahoo.com
 ads.yap.yahoo.com
 analytics.yahoo.com
+c2shb.ssp.yahoo.com
 global.adserver.yahoo.com
+ups.analytics.yahoo.com
 
 # yandex.com
 appmetrica.yandex.com
@@ -2229,6 +2482,7 @@ grade.market.yandex.ru
 informer.yandex.ru
 iot.quasar.yandex.ru
 kiks.yandex.ru
+log.strm.yandex.ru
 matchid.adfox.yandex.ru
 mc.yandex.ru
 metrika.yandex.ru

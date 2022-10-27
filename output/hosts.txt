@@ -1,9 +1,12 @@
-#2022-10-22 00:16:34
+#2022-10-27 11:16:40
 # wot.txt + melcosoft.txt + rom.txt + tikkok.txt
 
 
 # 1e100.net
 0.0.0.0 1e100.net
+
+# 2020mustang.com
+0.0.0.0 as.2020mustang.com
 
 # 24smi.net
 0.0.0.0 data.24smi.net
@@ -20,6 +23,13 @@
 
 # 3dnews.ru
 0.0.0.0 ad.3dnews.ru
+
+# 3lift.com
+0.0.0.0 eb2.3lift.com
+0.0.0.0 ib.3lift.com
+
+# 4251.tech
+0.0.0.0 4251.tech
 
 # 6sense.com
 0.0.0.0 epsilon.6sense.com
@@ -49,6 +59,8 @@
 
 # adform.net
 0.0.0.0 adx.adform.net
+0.0.0.0 cm.adform.net
+0.0.0.0 track.adform.net
 
 # adfox.ru
 0.0.0.0 ads.adfox.ru
@@ -75,6 +87,9 @@
 # adjust.world
 0.0.0.0 app.adjust.world
 
+# adktrack.com
+0.0.0.0 adktrack.com
+
 # adlightning.com
 0.0.0.0 tagan.adlightning.com
 
@@ -89,11 +104,17 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 secure.adnxs.com
 
+# adpool.bet
+0.0.0.0 z.cdn.adpool.bet
+
 # adpushup.com
 0.0.0.0 e3.adpushup.com
 
 # adquality.ch
 0.0.0.0 mt.adquality.ch
+
+# adrecover.com
+0.0.0.0 delivery.adrecover.com
 
 # adriver.ru
 0.0.0.0 ad.adriver.ru
@@ -105,6 +126,9 @@
 
 # adservice.io
 0.0.0.0 adservice.io
+
+# adsmoloco.com
+0.0.0.0 cdn-f.adsmoloco.com
 
 # adspire.io
 0.0.0.0 adware.adspire.io
@@ -130,6 +154,9 @@
 
 # adtng.com
 0.0.0.0 a.adtng.com
+0.0.0.0 ht-cdn2.adtng.com
+0.0.0.0 hw-cdn2.adtng.com
+0.0.0.0 vz-cdn2.adtng.com
 
 # adv.ru
 0.0.0.0 otclick-adv.ru
@@ -147,8 +174,19 @@
 # adwile.com
 0.0.0.0 adwile.com
 
+# adxpremium.services
+0.0.0.0 rtb.adxpremium.services
+
+# afp.ai
+0.0.0.0 cdn.afp.ai
+0.0.0.0 ssp.afp.ai
+
 # aidata.io
 0.0.0.0 x01.aidata.io
+
+# aio.media
+0.0.0.0 api.aio.media
+0.0.0.0 static.aio.media
 
 # akamaihd.net
 0.0.0.0 qsearch-a.akamaihd.net
@@ -157,9 +195,22 @@
 # akamaized.net
 0.0.0.0 img.s.msn.com.akamaized.net
 
+# aliapp.org
+0.0.0.0 us.ynuf.aliapp.org
+
+# alibabausercontent.com
+0.0.0.0 zconfig.alibabausercontent.com
+
 # alicdn.com
 0.0.0.0 ae-cn.alicdn.com
+0.0.0.0 dtmall-tel.alicdn.com
 0.0.0.0 wvcfg.alicdn.com
+
+# aliexpress.com
+0.0.0.0 amdc.aliexpress.com
+
+# alipay.com
+0.0.0.0 iclientgw.alipay.com
 
 # amazon.com
 0.0.0.0 aan.amazon.com
@@ -171,6 +222,7 @@
 
 # amplitude.com
 0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
 0.0.0.0 cdn.amplitude.com
 
 # ampproject.org
@@ -222,6 +274,7 @@
 0.0.0.0 rt.applovin.com
 
 # applvn.com
+0.0.0.0 a.applvn.com
 0.0.0.0 d.applvn.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 rt.applvn.com
@@ -257,6 +310,12 @@
 0.0.0.0 gvod.aiseejapp.atianqi.com
 0.0.0.0 www.gvod.aiseejapp.atianqi.com
 
+# atsptp.com
+0.0.0.0 atlas.atsptp.com
+
+# aufderhar.biz
+0.0.0.0 v.aufderhar.biz
+
 # autopay.com
 0.0.0.0 annamalkovavideo.e.autopay.com
 
@@ -274,6 +333,9 @@
 
 # bdwafx.com
 0.0.0.0 t.bdwafx.com
+
+# beeline.ru
+0.0.0.0 fcp.beeline.ru
 
 # betweendigital.com
 0.0.0.0 ads.betweendigital.com
@@ -300,6 +362,9 @@
 
 # bitrix.info
 0.0.0.0 bitrix.info
+
+# bncloudfl.com
+0.0.0.0 cdn.bncloudfl.com
 
 # bngpt.com
 0.0.0.0 db.bngpt.com
@@ -340,6 +405,9 @@
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
 
+# bumlam.com
+0.0.0.0 sync.bumlam.com
+
 # buzzoola.com
 0.0.0.0 exchange.buzzoola.com
 0.0.0.0 tube.buzzoola.com
@@ -352,6 +420,7 @@
 0.0.0.0 bzrpvk.ru
 
 # cackle.me
+0.0.0.0 cackle.me
 0.0.0.0 j.cackle.me
 
 # carbonads.net
@@ -399,6 +468,11 @@
 # chartbeat.net
 0.0.0.0 ping.chartbeat.net
 
+# chartboost.com
+0.0.0.0 a2.chartboost.com
+0.0.0.0 live.chartboost.com
+0.0.0.0 ssp-events.chartboost.com
+
 # chaturbate.com
 0.0.0.0 chaturbate.com
 0.0.0.0 m.chaturbate.com
@@ -432,6 +506,10 @@
 # co.jp
 0.0.0.0 zucks.co.jp
 
+# com.ru
+0.0.0.0 adx.com.ru
+0.0.0.0 rtb.com.ru
+
 # con.com
 0.0.0.0 rec.con.com
 
@@ -442,11 +520,23 @@
 0.0.0.0 img.connatix.com
 0.0.0.0 vid.connatix.com
 
+# connectad.io
+0.0.0.0 i.connectad.io
+
 # consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
 
+# const.uno
+0.0.0.0 const.uno
+
 # contenta.com
 0.0.0.0 dsp.e.contenta.com
+
+# contentabc.com
+0.0.0.0 ads2.contentabc.com
+0.0.0.0 cdn11.contentabc.com
+0.0.0.0 hw-cdn2.contentabc.com
+0.0.0.0 vz-cdn2.contentabc.com
 
 # contextweb.com
 0.0.0.0 lga.bh.bgp.contextweb.com
@@ -458,9 +548,13 @@
 0.0.0.0 cooolio.biz
 
 # counter.ru
+0.0.0.0 tns-counter.ru
 0.0.0.0 tns.counter.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.tns.counter.ru
+
+# covivado.club
+0.0.0.0 covivado.club
 
 # craktraffic.com
 0.0.0.0 craktraffic.com
@@ -492,11 +586,17 @@
 # crsspxl.com
 0.0.0.0 tag.crsspxl.com
 
+# ctrmanager.com
+0.0.0.0 show2.ctrmanager.com
+
 # culturaltracking.ru
 0.0.0.0 culturaltracking.ru
 
 # dadsans.com
 0.0.0.0 dadsans.com
+
+# dailyinnovation.biz
+0.0.0.0 matrix.dailyinnovation.biz
 
 # data.net
 0.0.0.0 bam-cell.nr-data.net
@@ -572,6 +672,10 @@
 0.0.0.0 async.px.eu.dynamicyield.com
 0.0.0.0 rcom.eu.dynamicyield.com
 
+# dynspt.com
+0.0.0.0 dynspt.com
+0.0.0.0 i.dynspt.com
+
 # ecosia.org
 0.0.0.0 ecosia.org
 
@@ -589,6 +693,9 @@
 
 # epicgames.com
 0.0.0.0 tracking.epicgames.com
+
+# etahub.com
+0.0.0.0 etahub.com
 
 # ethicalads.io
 0.0.0.0 server.ethicalads.io
@@ -640,11 +747,20 @@
 # flurry.com
 0.0.0.0 data.flurry.com
 
+# franecki.net
+0.0.0.0 franecki.net
+
 # freshmarketer.com
 0.0.0.0 freshmarketer.com
 
 # gdeslon.ru
 0.0.0.0 f.gdeslon.ru
+
+# getaim.info
+0.0.0.0 stats.getaim.info
+
+# getzend.digital
+0.0.0.0 ws.getzend.digital
 
 # ggpht.com
 0.0.0.0 lh4.ggpht.com
@@ -689,6 +805,7 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crashlyticsreports.pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging.pa.googleapis.com
 
 # googlesyndication.com
@@ -722,8 +839,14 @@
 # habr.com
 0.0.0.0 effect.habr.com
 
+# hczog.com
+0.0.0.0 hczog.com
+
 # heroku.com
 0.0.0.0 api.metrics.heroku.com
+
+# hhcdn.com
+0.0.0.0 hhcdn.com
 
 # hicloud.com
 0.0.0.0 datacollector-drru.dt.hicloud.com
@@ -749,6 +872,9 @@
 
 # hoyolab.com
 0.0.0.0 log-upload-os.hoyolab.com
+
+# hoyoverse.com
+0.0.0.0 log-upload-os.hoyoverse.com
 
 # hpyjmp.com
 0.0.0.0 creative.hpyjmp.com
@@ -964,6 +1090,7 @@
 0.0.0.0 munchkin.marketo.net
 
 # measurement.com
+0.0.0.0 app-measurement.com
 0.0.0.0 app.measurement.com
 
 # media.co
@@ -1140,6 +1267,7 @@
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gm.mmstat.com
+0.0.0.0 ru.mmstat.com
 
 # mobileadexchange.net
 0.0.0.0 adsmetadata.mobileadexchange.net
@@ -1176,6 +1304,7 @@
 0.0.0.0 s.go.mpulse.net
 
 # mradx.net
+0.0.0.0 m.mradx.net
 0.0.0.0 r.mradx.net
 
 # msads.net
@@ -1206,8 +1335,20 @@
 # msnbc.com
 0.0.0.0 analytics.msnbc.com
 
+# mts.ru
+0.0.0.0 sm.rtb.mts.ru
+0.0.0.0 tech.rtb.mts.ru
+
+# musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2-19-h2.musical.ly
+
+# mxpnl.com
+0.0.0.0 cdn.mxpnl.com
+
 # my.com
 0.0.0.0 ru.tracker-api.my.com
+0.0.0.0 tracker-api.my.com
 
 # myanimelist.net
 0.0.0.0 mhwc.myanimelist.net
@@ -1262,6 +1403,7 @@
 0.0.0.0 open.oneplus.net
 
 # onesignal.com
+0.0.0.0 api.onesignal.com
 0.0.0.0 cdn.onesignal.com
 
 # only2date.com
@@ -1327,6 +1469,12 @@
 # perfectmarket.com
 0.0.0.0 widget.perfectmarket.com
 
+# phncdn.com
+0.0.0.0 ai.phncdn.com
+0.0.0.0 cs.phncdn.com
+0.0.0.0 evtubescms.phncdn.com
+0.0.0.0 ew.phncdn.com
+
 # picsart.com
 0.0.0.0 analytics.picsart.com
 
@@ -1360,6 +1508,9 @@
 # point.ru
 0.0.0.0 5.point.ru
 
+# pornhub.com
+0.0.0.0 hubt.pornhub.com
+
 # portal.net
 0.0.0.0 stats.vk.portal.net
 
@@ -1384,6 +1535,11 @@
 0.0.0.0 pubapp.network
 0.0.0.0 serve.pubapp.network
 
+# pubmatic.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 sshowads.pubmatic.com
+
 # push4site.com
 0.0.0.0 push4site.com
 
@@ -1403,10 +1559,14 @@
 # queryly.com
 0.0.0.0 data.queryly.com
 
+# qvol.ru
+0.0.0.0 ad.qvol.ru
+
 # r.com
 0.0.0.0 ad-eu-03.p.otm-r.com
 0.0.0.0 ssp.otm.r.com
 0.0.0.0 sync.dmp.otm-r.com
+0.0.0.0 sync.otm-r.com
 0.0.0.0 vast-eu.otm-r.com
 
 # radikal.ru
@@ -1426,6 +1586,9 @@
 
 # rbc.ru
 0.0.0.0 r.rbc.ru
+
+# reacivepl.club
+0.0.0.0 reacivepl.club
 
 # realbig.online
 0.0.0.0 park.realbig.online
@@ -1461,6 +1624,10 @@
 # rereddit.com
 0.0.0.0 rereddit.com
 
+# retailrocket.net
+0.0.0.0 cdn.retailrocket.net
+0.0.0.0 tracking.retailrocket.net
+
 # retailrocket.ru
 0.0.0.0 cdn.retailrocket.ru
 
@@ -1488,6 +1655,9 @@
 0.0.0.0 api.rlcdn.com
 0.0.0.0 di.rlcdn.com
 
+# rock.com
+0.0.0.0 serving.stat-rock.com
+
 # rt.com
 0.0.0.0 nbc.rt.com
 
@@ -1512,6 +1682,8 @@
 # rutarget.ru
 0.0.0.0 cdn.rutarget.ru
 0.0.0.0 tag.rutarget.ru
+0.0.0.0 videonow-sync.rutarget.ru
+0.0.0.0 videotarget-sync.rutarget.ru
 
 # samsung.com
 0.0.0.0 bigdata.ssp.samsung.com
@@ -1536,6 +1708,9 @@
 # samsungusa.com
 0.0.0.0 business.samsungusa.com
 
+# sascdn.com
+0.0.0.0 ced.sascdn.com
+
 # sberbank.ru
 0.0.0.0 clickstream.online.sberbank.ru
 0.0.0.0 stories.stat.online.sberbank.ru
@@ -1552,6 +1727,9 @@
 # scroll.com
 0.0.0.0 connect.scroll.com
 0.0.0.0 static.scroll.com
+
+# sectigo.com
+0.0.0.0 crt.sectigo.com
 
 # segmentstream.com
 0.0.0.0 cdn.segmentstream.com
@@ -1571,6 +1749,13 @@
 0.0.0.0 status.sentry.io
 0.0.0.0 www.sentry.io
 
+# servenobid.com
+0.0.0.0 ads.servenobid.com
+
+# servetraff.com
+0.0.0.0 servetraff.com
+0.0.0.0 cdn.servetraff.com
+
 # services.com
 0.0.0.0 beacon.wikia-services.com
 
@@ -1586,6 +1771,9 @@
 
 # sharethrough.com
 0.0.0.0 sharethrough.com
+
+# shop.ru
+0.0.0.0 analytics.dns-shop.ru
 
 # sibnet.ru
 0.0.0.0 advast.sibnet.ru
@@ -1604,6 +1792,15 @@
 
 # slippersferry.com
 0.0.0.0 slippersferry.com
+
+# smadex.com
+0.0.0.0 creatives.smadex.com
+0.0.0.0 geo-tracker.smadex.com
+
+# smartadserver.com
+0.0.0.0 eqx.smartadserver.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 tagmanager.smartadserver.com
 
 # smi.today
 0.0.0.0 www.smi.today
@@ -1657,6 +1854,9 @@
 # sputnik.ru
 0.0.0.0 stat.sputnik.ru
 
+# spylees.com
+0.0.0.0 spylees.com
+
 # spylog.com
 0.0.0.0 spylog.com
 
@@ -1675,6 +1875,9 @@
 0.0.0.0 x.kinja-static.com
 0.0.0.0 x.kinja.static.com
 
+# statsforads.com
+0.0.0.0 www.statsforads.com
+
 # store.ru
 0.0.0.0 www.re.store.ru
 
@@ -1692,6 +1895,7 @@
 
 # taboola.com
 0.0.0.0 am.sync.taboola.com
+0.0.0.0 cdn.taboola.com
 0.0.0.0 hk.sync.taboola.com
 0.0.0.0 sync.taboola.com
 0.0.0.0 trc-events.taboola.com
@@ -1699,13 +1903,25 @@
 0.0.0.0 trc.events.taboola.com
 0.0.0.0 trc0.taboola.com
 
+# takedwn.ws
+0.0.0.0 test.takedwn.ws
+
 # taobao.com
 0.0.0.0 acs.m.taobao.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 cloud.video.taobao.com
 
+# tapjoy.com
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 content.tapjoy.com
+0.0.0.0 placements.tapjoy.com
+0.0.0.0 ws.tapjoy.com
+
 # target.ru
 0.0.0.0 tt.target.ru
+
+# teads.tv
+0.0.0.0 a.teads.tv
 
 # tencent.com
 0.0.0.0 guid.tpns.tencent.com
@@ -1722,6 +1938,8 @@
 
 # tiktokv.com
 0.0.0.0 gecko-sg.tiktokv.com
+0.0.0.0 log16-normal-alisg.tiktokv.com
+0.0.0.0 mssdk-sg.tiktokv.com
 
 # tildacdn.com
 0.0.0.0 stat.tildacdn.com
@@ -1741,10 +1959,22 @@
 
 # trafficbass.com
 0.0.0.0 cdn.trafficbass.com
+0.0.0.0 z.cdn.trafficbass.com
 
 # trafficfactory.biz
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.php.trafficfactory.biz
+
+# trafficjunky.com
+0.0.0.0 media.trafficjunky.com
+0.0.0.0 static.trafficjunky.com
+
+# trafficjunky.net
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 ctrack.trafficjunky.net
+0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 media.trafficjunky.net
+0.0.0.0 vz-cdn.trafficjunky.net
 
 # trafficmanager.net
 0.0.0.0 pl.px.trafficmanager.net
@@ -1819,6 +2049,9 @@
 # utarget.ru
 0.0.0.0 utarget.ru
 
+# utraff.com
+0.0.0.0 a.utraff.com
+
 # vak345.com
 0.0.0.0 vak345.com
 
@@ -1836,7 +2069,10 @@
 0.0.0.0 locp.de.viber.com
 
 # videonow.ru
+0.0.0.0 rtb.videonow.ru
 0.0.0.0 static.videonow.ru
+0.0.0.0 stats2.videonow.ru
+0.0.0.0 sync.videonow.ru
 
 # videoplayerhub.com
 0.0.0.0 kinja-com.videoplayerhub.com
@@ -1860,8 +2096,17 @@
 # vlitag.com
 0.0.0.0 services.vlitag.com
 
+# vungle.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 api.vungle.com
+0.0.0.0 events.api.vungle.com
+
 # wait.re
 0.0.0.0 g2.wait.re
+
+# webformscr.com
+0.0.0.0 gp.webformscr.com
+0.0.0.0 web.webformscr.com
 
 # weborama.fr
 0.0.0.0 cstatic.weborama.fr
@@ -1886,6 +2131,9 @@
 
 # whourgie.com
 0.0.0.0 whourgie.com
+
+# withgoogle.com
+0.0.0.0 csp.withgoogle.com
 
 # wp.com
 0.0.0.0 pixel.wp.com
@@ -2180,6 +2428,9 @@
 0.0.0.0 www.sec.resource.xiaomi.net
 0.0.0.0 www.solve.msg.xiaomi.net
 
+# yabidos.com
+0.0.0.0 pixel.yabidos.com
+
 # yadro.ru
 0.0.0.0 counter.yadro.ru
 
@@ -2187,7 +2438,9 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 global.adserver.yahoo.com
+0.0.0.0 ups.analytics.yahoo.com
 
 # yandex.com
 0.0.0.0 appmetrica.yandex.com
@@ -2229,6 +2482,7 @@
 0.0.0.0 informer.yandex.ru
 0.0.0.0 iot.quasar.yandex.ru
 0.0.0.0 kiks.yandex.ru
+0.0.0.0 log.strm.yandex.ru
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 metrika.yandex.ru
