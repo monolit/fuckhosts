@@ -1,4 +1,4 @@
-#2022-10-27 11:16:40
+#2022-12-05 22:56:13
 # wot.txt + melcosoft.txt + rom.txt + tikkok.txt
 
 
@@ -1512,6 +1512,7 @@
 0.0.0.0 hubt.pornhub.com
 
 # portal.net
+0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.vk.portal.net
 
 # portalvirtualreality.ru
@@ -1548,6 +1549,8 @@
 
 # qq.com
 0.0.0.0 android.bugly.qq.com
+0.0.0.0 h.trace.qq.com
+0.0.0.0 otheve.beacon.qq.com
 
 # qualaroo.com
 0.0.0.0 cl.qualaroo.com
