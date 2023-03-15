@@ -21,6 +21,7 @@ jobs:
         import json
         from subprocess import check_output
         url = "https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist"
+        print("hello")
         response = urllib.request.urlopen(url)
         data = json.loads(response.read())
         res = [i['url'] for i in data['sites']]
