@@ -12,14 +12,10 @@ jobs:
   update_blocklist:
     if: |
         contains(
-          [
-            'push',
-            'pull_request',
-            'workflow_dispatch',
-            'schedule'
-          ],
+          'push, pull_request, workflow_dispatch, schedule',
           github.event_name
-        )
+        ) &&
+
 
     runs-on: ubuntu-latest
     steps:
