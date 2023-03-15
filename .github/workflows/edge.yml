@@ -10,6 +10,11 @@ on:
 
 jobs:
   update_blocklist:
+    if: |
+        (github.event_name == 'push' || github.event_name == 'pull_request')
+        && github.ref == 'refs/heads/main'
+        && (startsWith(github.event.head_commit.message, 'txt file') 
+            || contains(github.event.head_commit.modified, '.txt'))
     runs-on: ubuntu-latest
     steps:
     - name: Check out code
