@@ -17,9 +17,9 @@ jobs:
     - name: a
       run: echo "Hello"
     - name: List files
-      run: ls -la
+      run: echo ls -la
     - name: Print current directory
-      run: pwd
+      run: echo pwd
 
     - name: Update Edge blocklist
       run: |
