@@ -11,8 +11,11 @@ on:
 jobs:
   update_blocklist:
     if: |
-        (github.event_name == 'push' || github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule')
-        && (github.ref == 'refs/heads/main' || github.event_name == 'schedule')
+        (contains([
+          'push', 'pull_request', 'workflow_dispatch', 'schedule'
+          ], github.event_name)
+        )
+        && (github.ref == 'refs/heads/main')
         && (startsWith(github.event.head_commit.message, 'txt file') 
             || contains(github.event.head_commit.modified, '.txt'))
     runs-on: ubuntu-latest
