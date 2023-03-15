@@ -19,10 +19,7 @@ jobs:
             'schedule'
           ],
           github.event_name
-        ) &&
-        github.ref == 'refs/heads/main' &&
-        (startsWith(github.event.head_commit.message, 'txt file') 
-        || contains(github.event.head_commit.modified, '.txt'))
+        )
 
     runs-on: ubuntu-latest
     steps:
