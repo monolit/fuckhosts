@@ -36,7 +36,7 @@ jobs:
         created_time = data["created_time"]
         # Convert the timestamp to a date string using the date command
         version = check_output(["date", "-d", f"@{created_time}", "+%Y%m%d%H%M"]).decode().strip()
-        with open("edge_blocklist", "w") as f:
+        with open("output/edge_blocklist", "w") as f:
             f.write(
                 f"""! Title: MsEdge blocklist
                 ! Expires: 1 days
@@ -47,14 +47,6 @@ jobs:
             )
         '
 
-    - name: Commit and push changes
-      uses: EndBug/add-and-commit@v9.1.1
-      with:
-        add: edge_blocklist
-        message: Update Edge blocklist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     - name: Deploy to GitHub Pages
       if: success()
       uses: peaceiris/actions-gh-pages@v3.9.2
@@ -63,3 +55,10 @@ jobs:
         publish_dir: ./output
         publish_branch: gh-pages
 
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9.1.1
+      with:
+        add: edge_blocklist
+        message: Update Edge blocklist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
