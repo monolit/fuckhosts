@@ -6,7 +6,7 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
+  #workflow_dispatch:
 
 jobs:
   update_blocklist:
@@ -15,7 +15,6 @@ jobs:
           'push, pull_request, workflow_dispatch, schedule',
           github.event_name
         )
-
     runs-on: ubuntu-latest
     steps:
     - name: Check out code
@@ -47,7 +46,6 @@ jobs:
             )
         '
 
-
     - name: Deploy to GitHub Pages
       if: success()
       uses: peaceiris/actions-gh-pages@v3.9.2
@@ -62,4 +60,4 @@ jobs:
 #        add: edge_blocklist
 #        message: Update Edge blocklist
 #      env:
-#       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
