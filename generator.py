@@ -25,7 +25,6 @@ def sorter(domains:list[str], mode):
         if t := re.findall(r'\w+\.\w+$', i):
             print(i)
             l.append([i.split(t[0])[0], t[-1]])
-        else:pass
     l = sorted(l, key = lambda x: x[::-1])
 
     for i in l:
@@ -37,13 +36,21 @@ def sorter(domains:list[str], mode):
             so_ = sorted(ae, key = lambda x: x[::-1])
 
 
-            if mode in ['hosts', 'list']:
-                if mode=='hosts':string='0.0.0.0 '
-                else:string=''
-                entries += f'\n# {domain}\n' + '\n'.join(['{}{}'.format(string, entry) for entry in [''.join(j) for j in so_]]) + '\n'
+            if mode == 'adblock':
+                entries += f'\n||{domain}^'
 
-            elif mode=='adblock':
-                entries += '\n||{}^'.format(domain)
+            elif mode in ['hosts', 'list']:
+                string = '0.0.0.0 ' if mode=='hosts' else ''
+                entries += (
+                    f'\n# {domain}\n'
+                    + '\n'.join(
+                        [
+                            f'{string}{entry}'
+                            for entry in [''.join(j) for j in so_]
+                        ]
+                    )
+                    + '\n'
+                )
 
             already.append(domain)
     return entries
@@ -71,19 +78,19 @@ def main() -> int:
             rr=f.read().split("\n")
             [entries.append(i) for i in rr]
 
-    # Filter empty lines
-    entries = list(filter(None, entries))
-
     # Create the output dir
     os.makedirs("output", exist_ok=True)
 
+    entries = list(filter(None, entries))
     # Run every generator
     for gen in generator_list:
         print(f"Running generator: {gen}")
         with open(f"output/{gen}", "w") as f:
-            f.write(f'''#{now}
+            f.write(
+                f'''#{now}
 # {list_}
-'''+generator_list[gen](entries))
+{generator_list[gen](entries)}'''
+            )
 
 
 if __name__ == "__main__":
