@@ -18,6 +18,7 @@ jobs:
       run: echo "Hello"
     - name: Update Edge blocklist
       run: |
+        python -c '
         import urllib.request
         import json
         from subprocess import check_output
@@ -25,23 +26,21 @@ jobs:
         print("hello")
         response = urllib.request.urlopen(url)
         data = json.loads(response.read())
-        res = [i['url'] for i in data['sites']]
+        res = [i["url"] for i in data["sites"]]
         # Get the timestamp of the response
         created_time = data["created_time"]
         # Convert the timestamp to a date string using the date command
         version = check_output(["date", "-d", f"@{created_time}", "+%Y%m%d%H%M"]).decode().strip()
-        with open('edge_blocklist', 'w') as f:
+        with open("edge_blocklist", "w") as f:
             f.write(
                 f"""! Title: MsEdge blocklist
                 ! Expires: 1 days
                 ! Version: {version}
                 ! Homepage: https://github.com/monolit/fuckhosts
-
                 """
-                + '\n'.join(res)
+                + "\n".join(res)
             )
-
-
+        '
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9.0.0
