@@ -6,7 +6,7 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
+  #workflow_dispatch:
 
 jobs:
   update_blocklist:
@@ -60,10 +60,10 @@ jobs:
         publish_dir: ./output
         publish_branch: gh-pages
 
-    - name: Commit and push changes
-      uses: EndBug/add-and-commit@v9.1.1
-      with:
-        add: edge_blocklist
-        message: Update Edge blocklist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#    - name: Commit and push changes
+#      uses: EndBug/add-and-commit@v9.1.1
+#      with:
+#        add: edge_blocklist
+#        message: Update Edge blocklist
+#      env:
+#       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
