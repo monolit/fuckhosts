@@ -43,7 +43,7 @@ jobs:
         '
 
     - name: Commit and push changes
-      uses: EndBug/add-and-commit@v9.0.0
+      uses: EndBug/add-and-commit@v9.1.1
       with:
         add: edge_blocklist
         message: Update Edge blocklist
@@ -52,7 +52,7 @@ jobs:
 
     - name: Deploy to GitHub Pages
       if: success()
-      uses: peaceiris/actions-gh-pages@v3.7.0
+      uses: peaceiris/actions-gh-pages@v3.9.2
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./output
