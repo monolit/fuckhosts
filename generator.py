@@ -1,6 +1,5 @@
 """Blocklistt
 """
-from typing import *
 import os
 from datetime import datetime as date
 import re
@@ -16,7 +15,7 @@ def generateAdblockList(block_list: list):
 def genwholelist(block_list: list):
     return sorter(block_list, 'list')
 
-def sorter(domains:list[str], mode):
+def sorter(domains:list, mode):
     '''gets list of domains and returns sorted by domain in alphabetical order'''    
     already = l = []
     entries = '\n'#{time}'
@@ -40,7 +39,7 @@ def sorter(domains:list[str], mode):
                 entries += f'\n||{domain}^'
 
             elif mode in ['hosts', 'list']:
-                string = '0.0.0.0 ' if mode=='hosts' else ''
+                string = '0.0.0.0 ' if mode == 'hosts' else ''
                 entries += (
                     f'\n# {domain}\n'
                     + '\n'.join(
