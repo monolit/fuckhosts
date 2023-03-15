@@ -10,15 +10,16 @@ on:
 
 jobs:
   update_blocklist:
-    if: |
-        contains(
-          'push, pull_request, workflow_dispatch, schedule',
-          github.event_name
-        )
     runs-on: ubuntu-latest
     steps:
     - name: Check out code
       uses: actions/checkout@v3.4.0
+    - name: a
+      run: echo "Hello"
+    - name: List files
+      run: echo ls -la
+    - name: Print current directory
+      run: echo pwd
 
     - name: Update Edge blocklist
       run: |
@@ -54,10 +55,10 @@ jobs:
         publish_dir: ./output
         publish_branch: gh-pages
 
-#    - name: Commit and push changes
-#      uses: EndBug/add-and-commit@v9.1.1
-#      with:
-#        add: edge_blocklist
-#        message: Update Edge blocklist
-#      env:
-#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9.1.1
+      with:
+        add: edge_blocklist
+        message: Update Edge blocklist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
