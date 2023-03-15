@@ -1,0 +1,54 @@
+name: Update Edge blocklist
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # 9:00 MSK
+  push:
+    branches:
+      - main
+
+jobs:
+  update_blocklist:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Update Edge blocklist
+      run: |
+        import urllib.request
+        import json
+        from subprocess import check_output
+        url = "https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist"
+        response = urllib.request.urlopen(url)
+        data = json.loads(response.read())
+        res = [i['url'] for i in data['sites']]
+        # Get the timestamp of the response
+        created_time = json_response["created_time"]
+        # Convert the timestamp to a date string using the date command
+        version = check_output(["date", "-d", f"@{created_time}", "+%Y%m%d%H%M"]).decode().strip()
+        with open('edge_blocklist', 'w') as f:
+        f.write(
+            f"""! Title: MsEdge blocklist
+        ! Expires: 1 days
+        ! Version: {version}
+        ! Homepage: https://github.com/monolit/fuckhosts
+            """
+            + '\n'.join(res))
+
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9.0.0
+      with:
+        add: edge_blocklist
+        message: Update Edge blocklist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Deploy to GitHub Pages
+      if: success()
+      uses: peaceiris/actions-gh-pages@v3.7.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
+        publish_branch: gh-pages
