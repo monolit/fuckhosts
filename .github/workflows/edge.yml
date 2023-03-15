@@ -29,13 +29,16 @@ jobs:
         # Convert the timestamp to a date string using the date command
         version = check_output(["date", "-d", f"@{created_time}", "+%Y%m%d%H%M"]).decode().strip()
         with open('edge_blocklist', 'w') as f:
-          f.write(
-            f"""! Title: MsEdge blocklist
-        ! Expires: 1 days
-        ! Version: {version}
-        ! Homepage: https://github.com/monolit/fuckhosts
-            """
-            + '\n'.join(res))
+            f.write(
+                f"""! Title: MsEdge blocklist
+                ! Expires: 1 days
+                ! Version: {version}
+                ! Homepage: https://github.com/monolit/fuckhosts
+
+                """
+                + '\n'.join(res)
+            )
+
 
 
     - name: Commit and push changes
