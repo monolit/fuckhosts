@@ -14,8 +14,7 @@ jobs:
         contains(
           'push, pull_request, workflow_dispatch, schedule',
           github.event_name
-        ) &&
-
+        )
 
     runs-on: ubuntu-latest
     steps:
