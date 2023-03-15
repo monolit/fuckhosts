@@ -35,16 +35,16 @@ jobs:
 
     - name: Deploy to GitHub Pages
       if: success()
-      uses: peaceiris/actions-gh-pages@v3.7.0
+      uses: peaceiris/actions-gh-pages@v3.9.2
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./output
         publish_branch: gh-pages
 
-    # https://github.com/marketplace/actions/add-commit
-    - name: Commit
-      uses: EndBug/add-and-commit@v9.0.0
-      if: success()
-      with:
-        add: output
-        message: Commit
+# https://github.com/marketplace/actions/add-commit
+#    - name: Commit
+#      uses: EndBug/add-and-commit@v9.1.1
+#      if: success()
+#      with:
+#        add: output
+#        message: Commit
