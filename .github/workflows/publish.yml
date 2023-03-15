@@ -7,10 +7,12 @@ on:
 
 jobs:
   publish:
-    runs-on: ubuntu-latest
+    if: github.event_name == 'commit'
+    runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        python-version: [3.9]
+        python-version: [3.11]
+        os: [ubuntu-latest]
 
     steps:
     - uses: actions/checkout@v2
