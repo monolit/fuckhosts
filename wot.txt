@@ -592,7 +592,6 @@ app.measurement.com
 js.agent.newrelic.com
 piwik.opendesktop.org
 plausible.io
-cdn.syndication.twimg.com
 syndication.twitter.com
 u.startup.mobile.webvisor.com
 startup.mobile.webvisor.com
