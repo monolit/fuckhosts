@@ -4,7 +4,32 @@ import os
 from datetime import datetime as date
 import re
 
-now=date.now().strftime("%Y-%m-%d %H:%M:%S")
+import urllib.request
+import json
+from subprocess import check_output
+
+
+url = "https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist"
+print("hello")
+response = urllib.request.urlopen(url)
+data = json.loads(response.read())
+res = [i["url"] for i in data["sites"]]
+# Get the timestamp of the response
+created_time = data["created_time"]
+# Convert the timestamp to a date string using the date command
+version = check_output(["date", "-d", f"@{created_time}", "+%Y%m%d%H%M"]).decode().strip()
+with open("edge_blocklist", "w") as f:
+    f.write(
+        f"""! Title: MsEdge blocklist
+! Expires: 1 days
+! Version: {version}
+! Homepage: https://github.com/monolit/fuckhosts
+
+"""
+        + "\n".join(res)
+    )
+
+now = date.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def generateIPV4Hosts(block_list: list):
     return sorter(block_list, 'hosts')
@@ -17,19 +42,19 @@ def genwholelist(block_list: list):
 
 def sorter(domains:list, mode):
     '''gets list of domains and returns sorted by domain in alphabetical order'''    
-    already = l = []
+    already = ll = []
     entries = '\n'#{time}'
 
     for i in domains:
         if t := re.findall(r'\w+\.\w+$', i):
             print(i)
-            l.append([i.split(t[0])[0], t[-1]])
-    l = sorted(l, key = lambda x: x[::-1])
+            ll.append([i.split(t[0])[0], t[-1]])
+    ll = sorted(ll, key = lambda x: x[::-1])
 
-    for i in l:
+    for i in ll:
         domain = i[-1]
         if domain not in already:
-            ae=[j if j[-1] == domain else None for j in l]
+            ae=[j if j[-1] == domain else None for j in ll]
             ae=list(filter(None, ae))
 
             so_ = sorted(ae, key = lambda x: x[::-1])
@@ -61,20 +86,29 @@ generator_list: dict = {
     "adblok.txt": generateAdblockList,
     "whole.txt": genwholelist
 }
-file_list=[
+file_list = [
     "wot.txt",
     "melcosoft.txt",
     "rom.txt",
-    "tikkok.txt"
+    "tikkok.txt",
+    "edge_blocklist"
 ]
-list_=' + '.join(file_list)
+
+extra_list = [
+    "banking_ru.txt",
+    "extras.txt",
+    "resabuse.txt"
+]
+
+list_ = ' + '.join(file_list)
+list_2 = ' + '.join(extra_list)
 
 def main() -> int:
     # Load the block list to a newline-seperated list
     entries = []
-    for i in file_list:
+    for i in file_list+extra_list:
         with open(i, "r") as f:
-            rr=f.read().split("\n")
+            rr = f.read().split("\n")
             [entries.append(i) for i in rr]
 
     # Create the output dir
@@ -86,8 +120,8 @@ def main() -> int:
         print(f"Running generator: {gen}")
         with open(f"output/{gen}", "w") as f:
             f.write(
-                f'''#{now}
-# {list_}
+                f'''# {now}
+# {list_+list_2}
 {generator_list[gen](entries)}'''
             )
 
