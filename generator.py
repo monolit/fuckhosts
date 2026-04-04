@@ -87,18 +87,11 @@ generator_list: dict = {
     "whole.txt": genwholelist
 }
 file_list = [
-    "wot.txt",
-    "melcosoft.txt",
-    "rom.txt",
-    "tikkok.txt",
+    "hosts.txt",
     "edge_blocklist"
 ]
 
-extra_list = [
-    "banking_ru.txt",
-    "extras.txt",
-    "resabuse.txt"
-]
+extra_list = []
 
 list_ = ' + '.join(file_list)
 list_2 = ' + '.join(extra_list)
