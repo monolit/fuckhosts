@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "label": "hosts.txt",
+      "url": "https://raw.githubusercontent.com/monolit/fuckhosts/main/hosts.txt",
+      "enabled": true,
+      "allow": false,
+      "redirect": true
+    }
+  ],
+  "blocked": [],
+  "redirected": [],
+  "allowed": []
+}
