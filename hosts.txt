@@ -46,7 +46,6 @@ outcome-ssp.supersonicads.com
 pm-gateway.supersonicads.com
 a4.applovin.com
 stats.myangular.life
-edgedl.me.gvt1.com
 dl.getzend.digital
 tsfe.trafficshaping.dsp.mp.microsoft.com
 api-stories.tinkoff.ru
